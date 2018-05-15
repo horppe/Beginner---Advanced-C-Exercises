@@ -1,0 +1,6 @@
+c:\users\sammx\documents\visual studio 2015\Projects\Subset of a given n set\Subset of a given n set\bin\Debug\Subset of a given n set.exe.config
+c:\users\sammx\documents\visual studio 2015\Projects\Subset of a given n set\Subset of a given n set\bin\Debug\Subset of a given n set.exe
+c:\users\sammx\documents\visual studio 2015\Projects\Subset of a given n set\Subset of a given n set\bin\Debug\Subset of a given n set.pdb
+c:\users\sammx\documents\visual studio 2015\Projects\Subset of a given n set\Subset of a given n set\obj\Debug\Subset of a given n set.csprojResolveAssemblyReference.cache
+c:\users\sammx\documents\visual studio 2015\Projects\Subset of a given n set\Subset of a given n set\obj\Debug\Subset of a given n set.exe
+c:\users\sammx\documents\visual studio 2015\Projects\Subset of a given n set\Subset of a given n set\obj\Debug\Subset of a given n set.pdb

@@ -1,0 +1,6 @@
+c:\users\sammx\documents\visual studio 2015\Projects\Subsequence of numbers with Max  sum\Subsequence of numbers with Max  sum\bin\Debug\Subsequence of numbers with Max  sum.exe.config
+c:\users\sammx\documents\visual studio 2015\Projects\Subsequence of numbers with Max  sum\Subsequence of numbers with Max  sum\bin\Debug\Subsequence of numbers with Max  sum.exe
+c:\users\sammx\documents\visual studio 2015\Projects\Subsequence of numbers with Max  sum\Subsequence of numbers with Max  sum\bin\Debug\Subsequence of numbers with Max  sum.pdb
+c:\users\sammx\documents\visual studio 2015\Projects\Subsequence of numbers with Max  sum\Subsequence of numbers with Max  sum\obj\Debug\Subsequence of numbers with Max  sum.csprojResolveAssemblyReference.cache
+c:\users\sammx\documents\visual studio 2015\Projects\Subsequence of numbers with Max  sum\Subsequence of numbers with Max  sum\obj\Debug\Subsequence of numbers with Max  sum.exe
+c:\users\sammx\documents\visual studio 2015\Projects\Subsequence of numbers with Max  sum\Subsequence of numbers with Max  sum\obj\Debug\Subsequence of numbers with Max  sum.pdb

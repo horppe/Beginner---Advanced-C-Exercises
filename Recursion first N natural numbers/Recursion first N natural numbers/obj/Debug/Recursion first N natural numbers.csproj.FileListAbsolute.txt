@@ -1,0 +1,6 @@
+c:\users\sammx\documents\visual studio 2015\Projects\Recursion first N natural numbers\Recursion first N natural numbers\bin\Debug\Recursion first N natural numbers.exe.config
+c:\users\sammx\documents\visual studio 2015\Projects\Recursion first N natural numbers\Recursion first N natural numbers\bin\Debug\Recursion first N natural numbers.exe
+c:\users\sammx\documents\visual studio 2015\Projects\Recursion first N natural numbers\Recursion first N natural numbers\bin\Debug\Recursion first N natural numbers.pdb
+c:\users\sammx\documents\visual studio 2015\Projects\Recursion first N natural numbers\Recursion first N natural numbers\obj\Debug\Recursion first N natural numbers.csprojResolveAssemblyReference.cache
+c:\users\sammx\documents\visual studio 2015\Projects\Recursion first N natural numbers\Recursion first N natural numbers\obj\Debug\Recursion first N natural numbers.exe
+c:\users\sammx\documents\visual studio 2015\Projects\Recursion first N natural numbers\Recursion first N natural numbers\obj\Debug\Recursion first N natural numbers.pdb

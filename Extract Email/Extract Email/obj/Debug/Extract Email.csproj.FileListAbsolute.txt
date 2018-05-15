@@ -1,0 +1,5 @@
+c:\users\sammx\documents\visual studio 2015\Projects\Extract Email\Extract Email\bin\Debug\Extract Email.exe.config
+c:\users\sammx\documents\visual studio 2015\Projects\Extract Email\Extract Email\bin\Debug\Extract Email.exe
+c:\users\sammx\documents\visual studio 2015\Projects\Extract Email\Extract Email\bin\Debug\Extract Email.pdb
+c:\users\sammx\documents\visual studio 2015\Projects\Extract Email\Extract Email\obj\Debug\Extract Email.exe
+c:\users\sammx\documents\visual studio 2015\Projects\Extract Email\Extract Email\obj\Debug\Extract Email.pdb

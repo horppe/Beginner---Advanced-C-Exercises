@@ -1,0 +1,5 @@
+c:\users\sammx\documents\visual studio 2015\Projects\Stack, Queue and Iteratuve HHD Traversal\Queue\bin\Debug\Queue.exe.config
+c:\users\sammx\documents\visual studio 2015\Projects\Stack, Queue and Iteratuve HHD Traversal\Queue\bin\Debug\Queue.exe
+c:\users\sammx\documents\visual studio 2015\Projects\Stack, Queue and Iteratuve HHD Traversal\Queue\bin\Debug\Queue.pdb
+c:\users\sammx\documents\visual studio 2015\Projects\Stack, Queue and Iteratuve HHD Traversal\Queue\obj\Debug\Queue.exe
+c:\users\sammx\documents\visual studio 2015\Projects\Stack, Queue and Iteratuve HHD Traversal\Queue\obj\Debug\Queue.pdb

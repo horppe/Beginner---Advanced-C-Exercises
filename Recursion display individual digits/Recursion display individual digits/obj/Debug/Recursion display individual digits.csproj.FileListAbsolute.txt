@@ -1,0 +1,6 @@
+c:\users\sammx\documents\visual studio 2015\Projects\Recursion display individual digits\Recursion display individual digits\bin\Debug\Recursion display individual digits.exe.config
+c:\users\sammx\documents\visual studio 2015\Projects\Recursion display individual digits\Recursion display individual digits\bin\Debug\Recursion display individual digits.exe
+c:\users\sammx\documents\visual studio 2015\Projects\Recursion display individual digits\Recursion display individual digits\bin\Debug\Recursion display individual digits.pdb
+c:\users\sammx\documents\visual studio 2015\Projects\Recursion display individual digits\Recursion display individual digits\obj\Debug\Recursion display individual digits.csprojResolveAssemblyReference.cache
+c:\users\sammx\documents\visual studio 2015\Projects\Recursion display individual digits\Recursion display individual digits\obj\Debug\Recursion display individual digits.exe
+c:\users\sammx\documents\visual studio 2015\Projects\Recursion display individual digits\Recursion display individual digits\obj\Debug\Recursion display individual digits.pdb

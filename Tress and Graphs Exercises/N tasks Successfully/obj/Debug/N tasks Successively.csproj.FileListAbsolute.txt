@@ -1,0 +1,6 @@
+C:\Users\sammx\documents\visual studio 2015\Projects\Tress and Graphs Exercises\N tasks Successfully\bin\Debug\N tasks Successfully.exe.config
+C:\Users\sammx\documents\visual studio 2015\Projects\Tress and Graphs Exercises\N tasks Successfully\bin\Debug\N tasks Successfully.exe
+C:\Users\sammx\documents\visual studio 2015\Projects\Tress and Graphs Exercises\N tasks Successfully\bin\Debug\N tasks Successfully.pdb
+C:\Users\sammx\documents\visual studio 2015\Projects\Tress and Graphs Exercises\N tasks Successfully\obj\Debug\N tasks Successively.csprojResolveAssemblyReference.cache
+C:\Users\sammx\documents\visual studio 2015\Projects\Tress and Graphs Exercises\N tasks Successfully\obj\Debug\N tasks Successfully.exe
+C:\Users\sammx\documents\visual studio 2015\Projects\Tress and Graphs Exercises\N tasks Successfully\obj\Debug\N tasks Successfully.pdb

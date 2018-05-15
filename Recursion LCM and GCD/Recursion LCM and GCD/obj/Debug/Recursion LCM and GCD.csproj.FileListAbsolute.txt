@@ -1,0 +1,6 @@
+c:\users\sammx\documents\visual studio 2015\Projects\Recursion LCM and GCD\Recursion LCM and GCD\bin\Debug\Recursion LCM and GCD.exe.config
+c:\users\sammx\documents\visual studio 2015\Projects\Recursion LCM and GCD\Recursion LCM and GCD\bin\Debug\Recursion LCM and GCD.exe
+c:\users\sammx\documents\visual studio 2015\Projects\Recursion LCM and GCD\Recursion LCM and GCD\bin\Debug\Recursion LCM and GCD.pdb
+c:\users\sammx\documents\visual studio 2015\Projects\Recursion LCM and GCD\Recursion LCM and GCD\obj\Debug\Recursion LCM and GCD.csprojResolveAssemblyReference.cache
+c:\users\sammx\documents\visual studio 2015\Projects\Recursion LCM and GCD\Recursion LCM and GCD\obj\Debug\Recursion LCM and GCD.exe
+c:\users\sammx\documents\visual studio 2015\Projects\Recursion LCM and GCD\Recursion LCM and GCD\obj\Debug\Recursion LCM and GCD.pdb

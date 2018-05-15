@@ -1,0 +1,6 @@
+c:\users\sammx\documents\visual studio 2015\Projects\Generic List\Generic List\bin\Debug\Generic List.exe.config
+c:\users\sammx\documents\visual studio 2015\Projects\Generic List\Generic List\bin\Debug\Generic List.exe
+c:\users\sammx\documents\visual studio 2015\Projects\Generic List\Generic List\bin\Debug\Generic List.pdb
+c:\users\sammx\documents\visual studio 2015\Projects\Generic List\Generic List\obj\Debug\Generic List.csprojResolveAssemblyReference.cache
+c:\users\sammx\documents\visual studio 2015\Projects\Generic List\Generic List\obj\Debug\Generic List.exe
+c:\users\sammx\documents\visual studio 2015\Projects\Generic List\Generic List\obj\Debug\Generic List.pdb

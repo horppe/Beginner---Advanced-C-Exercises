@@ -1,0 +1,6 @@
+c:\users\sammx\documents\visual studio 2015\Projects\Max sequence of increasing elements\Max sequence of increasing elements\bin\Debug\Max sequence of increasing elements.exe.config
+C:\Users\sammx\documents\visual studio 2015\Projects\Max sequence of increasing elements\Max sequence of increasing elements\bin\Debug\Max sequence of increasing elements.exe
+C:\Users\sammx\documents\visual studio 2015\Projects\Max sequence of increasing elements\Max sequence of increasing elements\bin\Debug\Max sequence of increasing elements.pdb
+C:\Users\sammx\documents\visual studio 2015\Projects\Max sequence of increasing elements\Max sequence of increasing elements\obj\Debug\Max sequence of increasing elements.csprojResolveAssemblyReference.cache
+C:\Users\sammx\documents\visual studio 2015\Projects\Max sequence of increasing elements\Max sequence of increasing elements\obj\Debug\Max sequence of increasing elements.exe
+C:\Users\sammx\documents\visual studio 2015\Projects\Max sequence of increasing elements\Max sequence of increasing elements\obj\Debug\Max sequence of increasing elements.pdb

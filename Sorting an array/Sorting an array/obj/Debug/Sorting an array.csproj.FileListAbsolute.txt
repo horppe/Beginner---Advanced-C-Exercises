@@ -1,0 +1,6 @@
+c:\users\sammx\documents\visual studio 2015\Projects\Sorting an array\Sorting an array\bin\Debug\Sorting an array.exe.config
+c:\users\sammx\documents\visual studio 2015\Projects\Sorting an array\Sorting an array\bin\Debug\Sorting an array.exe
+c:\users\sammx\documents\visual studio 2015\Projects\Sorting an array\Sorting an array\bin\Debug\Sorting an array.pdb
+c:\users\sammx\documents\visual studio 2015\Projects\Sorting an array\Sorting an array\obj\Debug\Sorting an array.csprojResolveAssemblyReference.cache
+c:\users\sammx\documents\visual studio 2015\Projects\Sorting an array\Sorting an array\obj\Debug\Sorting an array.exe
+c:\users\sammx\documents\visual studio 2015\Projects\Sorting an array\Sorting an array\obj\Debug\Sorting an array.pdb

@@ -1,0 +1,6 @@
+c:\users\sammx\documents\visual studio 2015\Projects\Prime numbers between one and ten million\Prime numbers between one and ten million\bin\Debug\Prime numbers between one and ten million.exe.config
+c:\users\sammx\documents\visual studio 2015\Projects\Prime numbers between one and ten million\Prime numbers between one and ten million\bin\Debug\Prime numbers between one and ten million.exe
+c:\users\sammx\documents\visual studio 2015\Projects\Prime numbers between one and ten million\Prime numbers between one and ten million\bin\Debug\Prime numbers between one and ten million.pdb
+c:\users\sammx\documents\visual studio 2015\Projects\Prime numbers between one and ten million\Prime numbers between one and ten million\obj\Debug\Prime numbers between one and ten million.csprojResolveAssemblyReference.cache
+c:\users\sammx\documents\visual studio 2015\Projects\Prime numbers between one and ten million\Prime numbers between one and ten million\obj\Debug\Prime numbers between one and ten million.exe
+c:\users\sammx\documents\visual studio 2015\Projects\Prime numbers between one and ten million\Prime numbers between one and ten million\obj\Debug\Prime numbers between one and ten million.pdb

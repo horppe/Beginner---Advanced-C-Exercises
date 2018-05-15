@@ -1,0 +1,6 @@
+c:\users\sammx\documents\visual studio 2015\Projects\Today\Today\bin\Debug\Today.exe.config
+c:\users\sammx\documents\visual studio 2015\Projects\Today\Today\bin\Debug\Today.exe
+c:\users\sammx\documents\visual studio 2015\Projects\Today\Today\bin\Debug\Today.pdb
+c:\users\sammx\documents\visual studio 2015\Projects\Today\Today\obj\Debug\Today.csprojResolveAssemblyReference.cache
+c:\users\sammx\documents\visual studio 2015\Projects\Today\Today\obj\Debug\Today.exe
+c:\users\sammx\documents\visual studio 2015\Projects\Today\Today\obj\Debug\Today.pdb

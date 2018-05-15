@@ -1,0 +1,6 @@
+c:\users\sammx\documents\visual studio 2015\Projects\Indices of words\Indices of words\bin\Debug\Indices of words.exe.config
+c:\users\sammx\documents\visual studio 2015\Projects\Indices of words\Indices of words\bin\Debug\Indices of words.exe
+c:\users\sammx\documents\visual studio 2015\Projects\Indices of words\Indices of words\bin\Debug\Indices of words.pdb
+c:\users\sammx\documents\visual studio 2015\Projects\Indices of words\Indices of words\obj\Debug\Indices of words.csprojResolveAssemblyReference.cache
+c:\users\sammx\documents\visual studio 2015\Projects\Indices of words\Indices of words\obj\Debug\Indices of words.exe
+c:\users\sammx\documents\visual studio 2015\Projects\Indices of words\Indices of words\obj\Debug\Indices of words.pdb

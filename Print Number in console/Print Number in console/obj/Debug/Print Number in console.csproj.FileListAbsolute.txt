@@ -1,0 +1,6 @@
+c:\users\sammx\documents\visual studio 2015\Projects\Print Number in console\Print Number in console\bin\Debug\Print Number in console.exe.config
+c:\users\sammx\documents\visual studio 2015\Projects\Print Number in console\Print Number in console\bin\Debug\Print Number in console.exe
+c:\users\sammx\documents\visual studio 2015\Projects\Print Number in console\Print Number in console\bin\Debug\Print Number in console.pdb
+c:\users\sammx\documents\visual studio 2015\Projects\Print Number in console\Print Number in console\obj\Debug\Print Number in console.csprojResolveAssemblyReference.cache
+c:\users\sammx\documents\visual studio 2015\Projects\Print Number in console\Print Number in console\obj\Debug\Print Number in console.exe
+c:\users\sammx\documents\visual studio 2015\Projects\Print Number in console\Print Number in console\obj\Debug\Print Number in console.pdb

@@ -1,0 +1,6 @@
+c:\users\sammx\documents\visual studio 2015\Projects\Replace Hyperlinks\Replace Hyperlinks\bin\Debug\Replace Hyperlinks.exe.config
+c:\users\sammx\documents\visual studio 2015\Projects\Replace Hyperlinks\Replace Hyperlinks\bin\Debug\Replace Hyperlinks.exe
+c:\users\sammx\documents\visual studio 2015\Projects\Replace Hyperlinks\Replace Hyperlinks\bin\Debug\Replace Hyperlinks.pdb
+c:\users\sammx\documents\visual studio 2015\Projects\Replace Hyperlinks\Replace Hyperlinks\obj\Debug\Replace Hyperlinks.csprojResolveAssemblyReference.cache
+c:\users\sammx\documents\visual studio 2015\Projects\Replace Hyperlinks\Replace Hyperlinks\obj\Debug\Replace Hyperlinks.exe
+c:\users\sammx\documents\visual studio 2015\Projects\Replace Hyperlinks\Replace Hyperlinks\obj\Debug\Replace Hyperlinks.pdb

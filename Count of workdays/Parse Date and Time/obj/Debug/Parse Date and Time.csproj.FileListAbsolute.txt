@@ -1,0 +1,5 @@
+C:\Users\sammx\Documents\Visual Studio 2015\Projects\Count of workdays\Parse Date and Time\bin\Debug\Parse Date and Time.exe.config
+C:\Users\sammx\Documents\Visual Studio 2015\Projects\Count of workdays\Parse Date and Time\bin\Debug\Parse Date and Time.exe
+C:\Users\sammx\Documents\Visual Studio 2015\Projects\Count of workdays\Parse Date and Time\bin\Debug\Parse Date and Time.pdb
+C:\Users\sammx\Documents\Visual Studio 2015\Projects\Count of workdays\Parse Date and Time\obj\Debug\Parse Date and Time.exe
+C:\Users\sammx\Documents\Visual Studio 2015\Projects\Count of workdays\Parse Date and Time\obj\Debug\Parse Date and Time.pdb

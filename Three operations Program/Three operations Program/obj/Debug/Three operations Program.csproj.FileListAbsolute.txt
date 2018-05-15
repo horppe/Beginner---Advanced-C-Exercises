@@ -1,0 +1,6 @@
+c:\users\sammx\documents\visual studio 2015\Projects\Three operations Program\Three operations Program\bin\Debug\Three operations Program.exe.config
+c:\users\sammx\documents\visual studio 2015\Projects\Three operations Program\Three operations Program\bin\Debug\Three operations Program.exe
+c:\users\sammx\documents\visual studio 2015\Projects\Three operations Program\Three operations Program\bin\Debug\Three operations Program.pdb
+c:\users\sammx\documents\visual studio 2015\Projects\Three operations Program\Three operations Program\obj\Debug\Three operations Program.csprojResolveAssemblyReference.cache
+c:\users\sammx\documents\visual studio 2015\Projects\Three operations Program\Three operations Program\obj\Debug\Three operations Program.exe
+c:\users\sammx\documents\visual studio 2015\Projects\Three operations Program\Three operations Program\obj\Debug\Three operations Program.pdb

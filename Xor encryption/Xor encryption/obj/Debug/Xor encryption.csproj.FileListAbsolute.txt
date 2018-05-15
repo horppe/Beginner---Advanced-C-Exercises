@@ -1,0 +1,6 @@
+c:\users\sammx\documents\visual studio 2015\Projects\Xor encryption\Xor encryption\bin\Debug\Xor encryption.exe.config
+c:\users\sammx\documents\visual studio 2015\Projects\Xor encryption\Xor encryption\bin\Debug\Xor encryption.exe
+c:\users\sammx\documents\visual studio 2015\Projects\Xor encryption\Xor encryption\bin\Debug\Xor encryption.pdb
+c:\users\sammx\documents\visual studio 2015\Projects\Xor encryption\Xor encryption\obj\Debug\Xor encryption.csprojResolveAssemblyReference.cache
+c:\users\sammx\documents\visual studio 2015\Projects\Xor encryption\Xor encryption\obj\Debug\Xor encryption.exe
+c:\users\sammx\documents\visual studio 2015\Projects\Xor encryption\Xor encryption\obj\Debug\Xor encryption.pdb

@@ -1,0 +1,6 @@
+c:\users\sammx\documents\visual studio 2015\Projects\Euclidean Algorithm\Euclidean Algorithm\bin\Debug\Euclidean Algorithm.exe.config
+c:\users\sammx\documents\visual studio 2015\Projects\Euclidean Algorithm\Euclidean Algorithm\bin\Debug\Euclidean Algorithm.exe
+c:\users\sammx\documents\visual studio 2015\Projects\Euclidean Algorithm\Euclidean Algorithm\bin\Debug\Euclidean Algorithm.pdb
+c:\users\sammx\documents\visual studio 2015\Projects\Euclidean Algorithm\Euclidean Algorithm\obj\Debug\Euclidean Algorithm.csprojResolveAssemblyReference.cache
+c:\users\sammx\documents\visual studio 2015\Projects\Euclidean Algorithm\Euclidean Algorithm\obj\Debug\Euclidean Algorithm.exe
+c:\users\sammx\documents\visual studio 2015\Projects\Euclidean Algorithm\Euclidean Algorithm\obj\Debug\Euclidean Algorithm.pdb

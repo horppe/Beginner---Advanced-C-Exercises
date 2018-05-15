@@ -1,0 +1,6 @@
+c:\users\sammx\documents\visual studio 2015\Projects\Spiral matrix\Spiral matrix\bin\Debug\Spiral matrix.exe.config
+c:\users\sammx\documents\visual studio 2015\Projects\Spiral matrix\Spiral matrix\bin\Debug\Spiral matrix.exe
+c:\users\sammx\documents\visual studio 2015\Projects\Spiral matrix\Spiral matrix\bin\Debug\Spiral matrix.pdb
+c:\users\sammx\documents\visual studio 2015\Projects\Spiral matrix\Spiral matrix\obj\Debug\Spiral matrix.csprojResolveAssemblyReference.cache
+c:\users\sammx\documents\visual studio 2015\Projects\Spiral matrix\Spiral matrix\obj\Debug\Spiral matrix.exe
+c:\users\sammx\documents\visual studio 2015\Projects\Spiral matrix\Spiral matrix\obj\Debug\Spiral matrix.pdb

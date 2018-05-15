@@ -1,0 +1,3 @@
+C:\Users\sammx\documents\visual studio 2015\Projects\Tress and Graphs Exercises\Undirected Graph\bin\Debug\Undirected Graph.exe.config
+C:\Users\sammx\documents\visual studio 2015\Projects\Tress and Graphs Exercises\Undirected Graph\obj\Debug\Undirected Graph.exe
+C:\Users\sammx\documents\visual studio 2015\Projects\Tress and Graphs Exercises\Undirected Graph\obj\Debug\Undirected Graph.pdb

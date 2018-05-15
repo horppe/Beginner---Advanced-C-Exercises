@@ -1,0 +1,6 @@
+c:\users\sammx\documents\visual studio 2015\Projects\Zeroes of Factorial\Zeroes of Factorial\bin\Debug\Zeroes of Factorial.exe.config
+c:\users\sammx\documents\visual studio 2015\Projects\Zeroes of Factorial\Zeroes of Factorial\bin\Debug\Zeroes of Factorial.exe
+c:\users\sammx\documents\visual studio 2015\Projects\Zeroes of Factorial\Zeroes of Factorial\bin\Debug\Zeroes of Factorial.pdb
+c:\users\sammx\documents\visual studio 2015\Projects\Zeroes of Factorial\Zeroes of Factorial\obj\Debug\Zeroes of Factorial.csprojResolveAssemblyReference.cache
+c:\users\sammx\documents\visual studio 2015\Projects\Zeroes of Factorial\Zeroes of Factorial\obj\Debug\Zeroes of Factorial.exe
+c:\users\sammx\documents\visual studio 2015\Projects\Zeroes of Factorial\Zeroes of Factorial\obj\Debug\Zeroes of Factorial.pdb

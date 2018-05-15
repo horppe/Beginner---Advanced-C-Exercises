@@ -1,0 +1,6 @@
+c:\users\sammx\documents\visual studio 2015\Projects\Method N Factorial\Method N Factorial\bin\Debug\Method N Factorial.exe.config
+c:\users\sammx\documents\visual studio 2015\Projects\Method N Factorial\Method N Factorial\bin\Debug\Method N Factorial.exe
+c:\users\sammx\documents\visual studio 2015\Projects\Method N Factorial\Method N Factorial\bin\Debug\Method N Factorial.pdb
+c:\users\sammx\documents\visual studio 2015\Projects\Method N Factorial\Method N Factorial\obj\Debug\Method N Factorial.csprojResolveAssemblyReference.cache
+c:\users\sammx\documents\visual studio 2015\Projects\Method N Factorial\Method N Factorial\obj\Debug\Method N Factorial.exe
+c:\users\sammx\documents\visual studio 2015\Projects\Method N Factorial\Method N Factorial\obj\Debug\Method N Factorial.pdb

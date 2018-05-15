@@ -1,0 +1,6 @@
+C:\Users\sammx\documents\visual studio 2015\Projects\Hash and Dics Examples\Lucky Sub Sequences\bin\Debug\Lucky Sub Sequences.exe.config
+C:\Users\sammx\documents\visual studio 2015\Projects\Hash and Dics Examples\Lucky Sub Sequences\bin\Debug\Lucky Sub Sequences.exe
+C:\Users\sammx\documents\visual studio 2015\Projects\Hash and Dics Examples\Lucky Sub Sequences\bin\Debug\Lucky Sub Sequences.pdb
+C:\Users\sammx\documents\visual studio 2015\Projects\Hash and Dics Examples\Lucky Sub Sequences\obj\Debug\Lucky Sub Sequences.csprojResolveAssemblyReference.cache
+C:\Users\sammx\documents\visual studio 2015\Projects\Hash and Dics Examples\Lucky Sub Sequences\obj\Debug\Lucky Sub Sequences.exe
+C:\Users\sammx\documents\visual studio 2015\Projects\Hash and Dics Examples\Lucky Sub Sequences\obj\Debug\Lucky Sub Sequences.pdb

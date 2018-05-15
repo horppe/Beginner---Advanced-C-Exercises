@@ -1,0 +1,6 @@
+c:\users\sammx\documents\visual studio 2015\Projects\Class Student\Class Student\bin\Debug\Class Student.exe.config
+c:\users\sammx\documents\visual studio 2015\Projects\Class Student\Class Student\bin\Debug\Class Student.exe
+c:\users\sammx\documents\visual studio 2015\Projects\Class Student\Class Student\bin\Debug\Class Student.pdb
+c:\users\sammx\documents\visual studio 2015\Projects\Class Student\Class Student\obj\Debug\Class Student.csprojResolveAssemblyReference.cache
+c:\users\sammx\documents\visual studio 2015\Projects\Class Student\Class Student\obj\Debug\Class Student.exe
+c:\users\sammx\documents\visual studio 2015\Projects\Class Student\Class Student\obj\Debug\Class Student.pdb

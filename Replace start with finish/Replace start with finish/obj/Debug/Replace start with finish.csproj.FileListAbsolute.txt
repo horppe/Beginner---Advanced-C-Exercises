@@ -1,0 +1,6 @@
+c:\users\sammx\documents\visual studio 2015\Projects\Replace start with finish\Replace start with finish\bin\Debug\Replace start with finish.exe.config
+c:\users\sammx\documents\visual studio 2015\Projects\Replace start with finish\Replace start with finish\bin\Debug\Replace start with finish.exe
+c:\users\sammx\documents\visual studio 2015\Projects\Replace start with finish\Replace start with finish\bin\Debug\Replace start with finish.pdb
+c:\users\sammx\documents\visual studio 2015\Projects\Replace start with finish\Replace start with finish\obj\Debug\Replace start with finish.csprojResolveAssemblyReference.cache
+c:\users\sammx\documents\visual studio 2015\Projects\Replace start with finish\Replace start with finish\obj\Debug\Replace start with finish.exe
+c:\users\sammx\documents\visual studio 2015\Projects\Replace start with finish\Replace start with finish\obj\Debug\Replace start with finish.pdb

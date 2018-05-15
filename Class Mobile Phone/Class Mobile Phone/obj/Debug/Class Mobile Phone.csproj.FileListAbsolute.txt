@@ -1,0 +1,6 @@
+c:\users\sammx\documents\visual studio 2015\Projects\Class Mobile Phone\Class Mobile Phone\bin\Debug\Class Mobile Phone.exe.config
+C:\Users\sammx\documents\visual studio 2015\Projects\Class Mobile Phone\Class Mobile Phone\bin\Debug\Class Mobile Phone.exe
+C:\Users\sammx\documents\visual studio 2015\Projects\Class Mobile Phone\Class Mobile Phone\bin\Debug\Class Mobile Phone.pdb
+C:\Users\sammx\documents\visual studio 2015\Projects\Class Mobile Phone\Class Mobile Phone\obj\Debug\Class Mobile Phone.csprojResolveAssemblyReference.cache
+C:\Users\sammx\documents\visual studio 2015\Projects\Class Mobile Phone\Class Mobile Phone\obj\Debug\Class Mobile Phone.exe
+C:\Users\sammx\documents\visual studio 2015\Projects\Class Mobile Phone\Class Mobile Phone\obj\Debug\Class Mobile Phone.pdb

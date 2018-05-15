@@ -1,0 +1,6 @@
+c:\users\sammx\documents\visual studio 2015\Projects\Binary to Hex and Dec\Binary to Hex and Dec\bin\Debug\Binary to Hex and Dec.exe.config
+C:\Users\sammx\documents\visual studio 2015\Projects\Binary to Hex and Dec\Binary to Hex and Dec\bin\Debug\Binary to Hex and Dec.exe
+C:\Users\sammx\documents\visual studio 2015\Projects\Binary to Hex and Dec\Binary to Hex and Dec\bin\Debug\Binary to Hex and Dec.pdb
+C:\Users\sammx\documents\visual studio 2015\Projects\Binary to Hex and Dec\Binary to Hex and Dec\obj\Debug\Binary to Hex and Dec.csprojResolveAssemblyReference.cache
+C:\Users\sammx\documents\visual studio 2015\Projects\Binary to Hex and Dec\Binary to Hex and Dec\obj\Debug\Binary to Hex and Dec.exe
+C:\Users\sammx\documents\visual studio 2015\Projects\Binary to Hex and Dec\Binary to Hex and Dec\obj\Debug\Binary to Hex and Dec.pdb

@@ -1,0 +1,6 @@
+c:\users\sammx\documents\visual studio 2015\Projects\N and K Factorial\N and K Factorial\bin\Debug\N and K Factorial.exe.config
+c:\users\sammx\documents\visual studio 2015\Projects\N and K Factorial\N and K Factorial\bin\Debug\N and K Factorial.exe
+c:\users\sammx\documents\visual studio 2015\Projects\N and K Factorial\N and K Factorial\bin\Debug\N and K Factorial.pdb
+c:\users\sammx\documents\visual studio 2015\Projects\N and K Factorial\N and K Factorial\obj\Debug\N and K Factorial.csprojResolveAssemblyReference.cache
+c:\users\sammx\documents\visual studio 2015\Projects\N and K Factorial\N and K Factorial\obj\Debug\N and K Factorial.exe
+c:\users\sammx\documents\visual studio 2015\Projects\N and K Factorial\N and K Factorial\obj\Debug\N and K Factorial.pdb

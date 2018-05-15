@@ -1,0 +1,6 @@
+c:\users\sammx\documents\visual studio 2015\Projects\Count number of words in a file\Count number of words in a file\bin\Debug\Count number of words in a file.exe.config
+C:\Users\sammx\documents\visual studio 2015\Projects\Count number of words in a file\Count number of words in a file\bin\Debug\Count number of words in a file.exe
+C:\Users\sammx\documents\visual studio 2015\Projects\Count number of words in a file\Count number of words in a file\bin\Debug\Count number of words in a file.pdb
+C:\Users\sammx\documents\visual studio 2015\Projects\Count number of words in a file\Count number of words in a file\obj\Debug\Count number of words in a file.csprojResolveAssemblyReference.cache
+C:\Users\sammx\documents\visual studio 2015\Projects\Count number of words in a file\Count number of words in a file\obj\Debug\Count number of words in a file.exe
+C:\Users\sammx\documents\visual studio 2015\Projects\Count number of words in a file\Count number of words in a file\obj\Debug\Count number of words in a file.pdb

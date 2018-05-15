@@ -1,0 +1,6 @@
+c:\users\sammx\documents\visual studio 2015\Projects\Recursion Palindrome\Recursion Palindrome\bin\Debug\Recursion Palindrome.exe.config
+C:\Users\sammx\documents\visual studio 2015\Projects\Recursion Palindrome\Recursion Palindrome\obj\Debug\Recursion Palindrome.csprojResolveAssemblyReference.cache
+C:\Users\sammx\documents\visual studio 2015\Projects\Recursion Palindrome\Recursion Palindrome\bin\Debug\Recursion Palindrome.exe
+C:\Users\sammx\documents\visual studio 2015\Projects\Recursion Palindrome\Recursion Palindrome\bin\Debug\Recursion Palindrome.pdb
+C:\Users\sammx\documents\visual studio 2015\Projects\Recursion Palindrome\Recursion Palindrome\obj\Debug\Recursion Palindrome.exe
+C:\Users\sammx\documents\visual studio 2015\Projects\Recursion Palindrome\Recursion Palindrome\obj\Debug\Recursion Palindrome.pdb

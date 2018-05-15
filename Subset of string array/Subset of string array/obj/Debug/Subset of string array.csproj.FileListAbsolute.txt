@@ -1,0 +1,6 @@
+c:\users\sammx\documents\visual studio 2015\Projects\Subset of string array\Subset of string array\bin\Debug\Subset of string array.exe.config
+c:\users\sammx\documents\visual studio 2015\Projects\Subset of string array\Subset of string array\bin\Debug\Subset of string array.exe
+c:\users\sammx\documents\visual studio 2015\Projects\Subset of string array\Subset of string array\bin\Debug\Subset of string array.pdb
+c:\users\sammx\documents\visual studio 2015\Projects\Subset of string array\Subset of string array\obj\Debug\Subset of string array.csprojResolveAssemblyReference.cache
+c:\users\sammx\documents\visual studio 2015\Projects\Subset of string array\Subset of string array\obj\Debug\Subset of string array.exe
+c:\users\sammx\documents\visual studio 2015\Projects\Subset of string array\Subset of string array\obj\Debug\Subset of string array.pdb

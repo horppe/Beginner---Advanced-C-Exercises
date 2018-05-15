@@ -1,0 +1,6 @@
+c:\users\sammx\documents\visual studio 2015\Projects\Recursion Check If N is Prime\Recursion Check If N is Prime\bin\Debug\Recursion Check If N is Prime.exe.config
+c:\users\sammx\documents\visual studio 2015\Projects\Recursion Check If N is Prime\Recursion Check If N is Prime\bin\Debug\Recursion Check If N is Prime.exe
+c:\users\sammx\documents\visual studio 2015\Projects\Recursion Check If N is Prime\Recursion Check If N is Prime\bin\Debug\Recursion Check If N is Prime.pdb
+c:\users\sammx\documents\visual studio 2015\Projects\Recursion Check If N is Prime\Recursion Check If N is Prime\obj\Debug\Recursion Check If N is Prime.csprojResolveAssemblyReference.cache
+c:\users\sammx\documents\visual studio 2015\Projects\Recursion Check If N is Prime\Recursion Check If N is Prime\obj\Debug\Recursion Check If N is Prime.exe
+c:\users\sammx\documents\visual studio 2015\Projects\Recursion Check If N is Prime\Recursion Check If N is Prime\obj\Debug\Recursion Check If N is Prime.pdb

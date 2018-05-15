@@ -1,0 +1,6 @@
+c:\users\sammx\documents\visual studio 2015\Projects\beta square matrix\beta square matrix\bin\Debug\beta square matrix.exe.config
+c:\users\sammx\documents\visual studio 2015\Projects\beta square matrix\beta square matrix\bin\Debug\beta square matrix.exe
+c:\users\sammx\documents\visual studio 2015\Projects\beta square matrix\beta square matrix\bin\Debug\beta square matrix.pdb
+c:\users\sammx\documents\visual studio 2015\Projects\beta square matrix\beta square matrix\obj\Debug\beta square matrix.csprojResolveAssemblyReference.cache
+c:\users\sammx\documents\visual studio 2015\Projects\beta square matrix\beta square matrix\obj\Debug\beta square matrix.exe
+c:\users\sammx\documents\visual studio 2015\Projects\beta square matrix\beta square matrix\obj\Debug\beta square matrix.pdb

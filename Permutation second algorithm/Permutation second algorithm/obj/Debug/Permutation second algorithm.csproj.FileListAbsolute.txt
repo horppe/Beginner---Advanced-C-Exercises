@@ -1,0 +1,6 @@
+c:\users\sammx\documents\visual studio 2015\Projects\Permutation second algorithm\Permutation second algorithm\bin\Debug\Permutation second algorithm.exe.config
+c:\users\sammx\documents\visual studio 2015\Projects\Permutation second algorithm\Permutation second algorithm\bin\Debug\Permutation second algorithm.exe
+c:\users\sammx\documents\visual studio 2015\Projects\Permutation second algorithm\Permutation second algorithm\bin\Debug\Permutation second algorithm.pdb
+c:\users\sammx\documents\visual studio 2015\Projects\Permutation second algorithm\Permutation second algorithm\obj\Debug\Permutation second algorithm.csprojResolveAssemblyReference.cache
+c:\users\sammx\documents\visual studio 2015\Projects\Permutation second algorithm\Permutation second algorithm\obj\Debug\Permutation second algorithm.exe
+c:\users\sammx\documents\visual studio 2015\Projects\Permutation second algorithm\Permutation second algorithm\obj\Debug\Permutation second algorithm.pdb

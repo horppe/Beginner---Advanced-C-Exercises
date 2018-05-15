@@ -1,0 +1,6 @@
+c:\users\sammx\documents\visual studio 2015\Projects\Adewales names\Adewales names\bin\Debug\Adewales names.exe.config
+c:\users\sammx\documents\visual studio 2015\Projects\Adewales names\Adewales names\bin\Debug\Adewales names.exe
+c:\users\sammx\documents\visual studio 2015\Projects\Adewales names\Adewales names\bin\Debug\Adewales names.pdb
+c:\users\sammx\documents\visual studio 2015\Projects\Adewales names\Adewales names\obj\Debug\Adewales names.csprojResolveAssemblyReference.cache
+c:\users\sammx\documents\visual studio 2015\Projects\Adewales names\Adewales names\obj\Debug\Adewales names.exe
+c:\users\sammx\documents\visual studio 2015\Projects\Adewales names\Adewales names\obj\Debug\Adewales names.pdb

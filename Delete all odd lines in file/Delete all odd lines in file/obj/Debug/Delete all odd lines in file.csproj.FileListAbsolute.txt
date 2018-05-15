@@ -1,0 +1,6 @@
+c:\users\sammx\documents\visual studio 2015\Projects\Delete all odd lines in file\Delete all odd lines in file\bin\Debug\Delete all odd lines in file.exe.config
+c:\users\sammx\documents\visual studio 2015\Projects\Delete all odd lines in file\Delete all odd lines in file\bin\Debug\Delete all odd lines in file.exe
+c:\users\sammx\documents\visual studio 2015\Projects\Delete all odd lines in file\Delete all odd lines in file\bin\Debug\Delete all odd lines in file.pdb
+c:\users\sammx\documents\visual studio 2015\Projects\Delete all odd lines in file\Delete all odd lines in file\obj\Debug\Delete all odd lines in file.csprojResolveAssemblyReference.cache
+c:\users\sammx\documents\visual studio 2015\Projects\Delete all odd lines in file\Delete all odd lines in file\obj\Debug\Delete all odd lines in file.exe
+c:\users\sammx\documents\visual studio 2015\Projects\Delete all odd lines in file\Delete all odd lines in file\obj\Debug\Delete all odd lines in file.pdb

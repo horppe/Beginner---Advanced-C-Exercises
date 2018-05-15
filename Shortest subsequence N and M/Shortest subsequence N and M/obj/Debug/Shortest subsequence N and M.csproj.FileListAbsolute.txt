@@ -1,0 +1,6 @@
+c:\users\sammx\documents\visual studio 2015\Projects\Shortest subsequence N and M\Shortest subsequence N and M\bin\Debug\Shortest subsequence N and M.exe.config
+c:\users\sammx\documents\visual studio 2015\Projects\Shortest subsequence N and M\Shortest subsequence N and M\bin\Debug\Shortest subsequence N and M.exe
+c:\users\sammx\documents\visual studio 2015\Projects\Shortest subsequence N and M\Shortest subsequence N and M\bin\Debug\Shortest subsequence N and M.pdb
+c:\users\sammx\documents\visual studio 2015\Projects\Shortest subsequence N and M\Shortest subsequence N and M\obj\Debug\Shortest subsequence N and M.csprojResolveAssemblyReference.cache
+c:\users\sammx\documents\visual studio 2015\Projects\Shortest subsequence N and M\Shortest subsequence N and M\obj\Debug\Shortest subsequence N and M.exe
+c:\users\sammx\documents\visual studio 2015\Projects\Shortest subsequence N and M\Shortest subsequence N and M\obj\Debug\Shortest subsequence N and M.pdb

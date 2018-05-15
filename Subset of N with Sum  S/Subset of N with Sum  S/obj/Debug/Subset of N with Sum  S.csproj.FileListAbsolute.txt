@@ -1,0 +1,6 @@
+c:\users\sammx\documents\visual studio 2015\Projects\Subset of N with Sum  S\Subset of N with Sum  S\bin\Debug\Subset of N with Sum  S.exe.config
+C:\Users\sammx\documents\visual studio 2015\Projects\Subset of N with Sum  S\Subset of N with Sum  S\bin\Debug\Subset of N with Sum  S.exe
+C:\Users\sammx\documents\visual studio 2015\Projects\Subset of N with Sum  S\Subset of N with Sum  S\bin\Debug\Subset of N with Sum  S.pdb
+C:\Users\sammx\documents\visual studio 2015\Projects\Subset of N with Sum  S\Subset of N with Sum  S\obj\Debug\Subset of N with Sum  S.csprojResolveAssemblyReference.cache
+C:\Users\sammx\documents\visual studio 2015\Projects\Subset of N with Sum  S\Subset of N with Sum  S\obj\Debug\Subset of N with Sum  S.exe
+C:\Users\sammx\documents\visual studio 2015\Projects\Subset of N with Sum  S\Subset of N with Sum  S\obj\Debug\Subset of N with Sum  S.pdb

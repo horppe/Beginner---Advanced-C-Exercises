@@ -1,0 +1,6 @@
+c:\users\sammx\documents\visual studio 2015\Projects\three numbers in three virtual columns\three numbers in three virtual columns\bin\Debug\three numbers in three virtual columns.exe.config
+c:\users\sammx\documents\visual studio 2015\Projects\three numbers in three virtual columns\three numbers in three virtual columns\bin\Debug\three numbers in three virtual columns.exe
+c:\users\sammx\documents\visual studio 2015\Projects\three numbers in three virtual columns\three numbers in three virtual columns\bin\Debug\three numbers in three virtual columns.pdb
+c:\users\sammx\documents\visual studio 2015\Projects\three numbers in three virtual columns\three numbers in three virtual columns\obj\Debug\three numbers in three virtual columns.csprojResolveAssemblyReference.cache
+c:\users\sammx\documents\visual studio 2015\Projects\three numbers in three virtual columns\three numbers in three virtual columns\obj\Debug\three numbers in three virtual columns.exe
+c:\users\sammx\documents\visual studio 2015\Projects\three numbers in three virtual columns\three numbers in three virtual columns\obj\Debug\three numbers in three virtual columns.pdb

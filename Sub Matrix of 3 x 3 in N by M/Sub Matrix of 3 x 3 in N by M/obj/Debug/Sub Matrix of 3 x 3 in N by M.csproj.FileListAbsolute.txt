@@ -1,0 +1,6 @@
+c:\users\sammx\documents\visual studio 2015\Projects\Sub Matrix of 3 x 3 in N by M\Sub Matrix of 3 x 3 in N by M\bin\Debug\Sub Matrix of 3 x 3 in N by M.exe.config
+c:\users\sammx\documents\visual studio 2015\Projects\Sub Matrix of 3 x 3 in N by M\Sub Matrix of 3 x 3 in N by M\bin\Debug\Sub Matrix of 3 x 3 in N by M.exe
+c:\users\sammx\documents\visual studio 2015\Projects\Sub Matrix of 3 x 3 in N by M\Sub Matrix of 3 x 3 in N by M\bin\Debug\Sub Matrix of 3 x 3 in N by M.pdb
+c:\users\sammx\documents\visual studio 2015\Projects\Sub Matrix of 3 x 3 in N by M\Sub Matrix of 3 x 3 in N by M\obj\Debug\Sub Matrix of 3 x 3 in N by M.csprojResolveAssemblyReference.cache
+c:\users\sammx\documents\visual studio 2015\Projects\Sub Matrix of 3 x 3 in N by M\Sub Matrix of 3 x 3 in N by M\obj\Debug\Sub Matrix of 3 x 3 in N by M.exe
+c:\users\sammx\documents\visual studio 2015\Projects\Sub Matrix of 3 x 3 in N by M\Sub Matrix of 3 x 3 in N by M\obj\Debug\Sub Matrix of 3 x 3 in N by M.pdb

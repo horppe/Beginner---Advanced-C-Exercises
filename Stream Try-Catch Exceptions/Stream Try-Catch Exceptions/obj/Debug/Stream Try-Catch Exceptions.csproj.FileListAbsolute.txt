@@ -1,0 +1,1 @@
+c:\users\sammx\documents\visual studio 2015\Projects\Stream Try-Catch Exceptions\Stream Try-Catch Exceptions\bin\Debug\Stream Try-Catch Exceptions.exe.config

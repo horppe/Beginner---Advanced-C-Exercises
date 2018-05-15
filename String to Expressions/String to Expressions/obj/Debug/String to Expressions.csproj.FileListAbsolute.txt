@@ -1,0 +1,6 @@
+c:\users\sammx\documents\visual studio 2015\Projects\String to Expressions\String to Expressions\bin\Debug\String to Expressions.exe.config
+c:\users\sammx\documents\visual studio 2015\Projects\String to Expressions\String to Expressions\bin\Debug\String to Expressions.exe
+c:\users\sammx\documents\visual studio 2015\Projects\String to Expressions\String to Expressions\bin\Debug\String to Expressions.pdb
+c:\users\sammx\documents\visual studio 2015\Projects\String to Expressions\String to Expressions\obj\Debug\String to Expressions.csprojResolveAssemblyReference.cache
+c:\users\sammx\documents\visual studio 2015\Projects\String to Expressions\String to Expressions\obj\Debug\String to Expressions.exe
+c:\users\sammx\documents\visual studio 2015\Projects\String to Expressions\String to Expressions\obj\Debug\String to Expressions.pdb

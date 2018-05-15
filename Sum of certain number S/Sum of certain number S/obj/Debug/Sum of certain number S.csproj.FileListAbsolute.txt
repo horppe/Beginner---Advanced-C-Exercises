@@ -1,0 +1,6 @@
+c:\users\sammx\documents\visual studio 2015\Projects\Sum of certain number S\Sum of certain number S\bin\Debug\Sum of certain number S.exe.config
+c:\users\sammx\documents\visual studio 2015\Projects\Sum of certain number S\Sum of certain number S\bin\Debug\Sum of certain number S.exe
+c:\users\sammx\documents\visual studio 2015\Projects\Sum of certain number S\Sum of certain number S\bin\Debug\Sum of certain number S.pdb
+c:\users\sammx\documents\visual studio 2015\Projects\Sum of certain number S\Sum of certain number S\obj\Debug\Sum of certain number S.csprojResolveAssemblyReference.cache
+c:\users\sammx\documents\visual studio 2015\Projects\Sum of certain number S\Sum of certain number S\obj\Debug\Sum of certain number S.exe
+c:\users\sammx\documents\visual studio 2015\Projects\Sum of certain number S\Sum of certain number S\obj\Debug\Sum of certain number S.pdb

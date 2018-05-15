@@ -1,0 +1,6 @@
+c:\users\sammx\documents\visual studio 2015\Projects\Times a number can be found in an array\Times a number can be found in an array\bin\Debug\Times a number can be found in an array.exe.config
+c:\users\sammx\documents\visual studio 2015\Projects\Times a number can be found in an array\Times a number can be found in an array\bin\Debug\Times a number can be found in an array.exe
+c:\users\sammx\documents\visual studio 2015\Projects\Times a number can be found in an array\Times a number can be found in an array\bin\Debug\Times a number can be found in an array.pdb
+c:\users\sammx\documents\visual studio 2015\Projects\Times a number can be found in an array\Times a number can be found in an array\obj\Debug\Times a number can be found in an array.csprojResolveAssemblyReference.cache
+c:\users\sammx\documents\visual studio 2015\Projects\Times a number can be found in an array\Times a number can be found in an array\obj\Debug\Times a number can be found in an array.exe
+c:\users\sammx\documents\visual studio 2015\Projects\Times a number can be found in an array\Times a number can be found in an array\obj\Debug\Times a number can be found in an array.pdb

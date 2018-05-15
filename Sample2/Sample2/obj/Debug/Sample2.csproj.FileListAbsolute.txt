@@ -1,0 +1,6 @@
+c:\users\sammx\documents\visual studio 2015\Projects\Sample2\Sample2\bin\Debug\Sample2.exe.config
+c:\users\sammx\documents\visual studio 2015\Projects\Sample2\Sample2\obj\Debug\Sample2.csprojResolveAssemblyReference.cache
+c:\users\sammx\documents\visual studio 2015\Projects\Sample2\Sample2\bin\Debug\Sample2.exe
+c:\users\sammx\documents\visual studio 2015\Projects\Sample2\Sample2\bin\Debug\Sample2.pdb
+c:\users\sammx\documents\visual studio 2015\Projects\Sample2\Sample2\obj\Debug\Sample2.exe
+c:\users\sammx\documents\visual studio 2015\Projects\Sample2\Sample2\obj\Debug\Sample2.pdb

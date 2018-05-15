@@ -1,0 +1,5 @@
+C:\Users\sammx\documents\visual studio 2015\Projects\Tress and Graphs Exercises\Directory EXE search\bin\Debug\Directory EXE search.exe.config
+C:\Users\sammx\documents\visual studio 2015\Projects\Tress and Graphs Exercises\Directory EXE search\bin\Debug\Directory EXE search.exe
+C:\Users\sammx\documents\visual studio 2015\Projects\Tress and Graphs Exercises\Directory EXE search\bin\Debug\Directory EXE search.pdb
+C:\Users\sammx\documents\visual studio 2015\Projects\Tress and Graphs Exercises\Directory EXE search\obj\Debug\Directory EXE search.exe
+C:\Users\sammx\documents\visual studio 2015\Projects\Tress and Graphs Exercises\Directory EXE search\obj\Debug\Directory EXE search.pdb

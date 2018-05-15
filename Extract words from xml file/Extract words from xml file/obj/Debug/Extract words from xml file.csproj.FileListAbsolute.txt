@@ -1,0 +1,6 @@
+c:\users\sammx\documents\visual studio 2015\Projects\Extract words from xml file\Extract words from xml file\bin\Debug\Extract words from xml file.exe.config
+c:\users\sammx\documents\visual studio 2015\Projects\Extract words from xml file\Extract words from xml file\bin\Debug\Extract words from xml file.exe
+c:\users\sammx\documents\visual studio 2015\Projects\Extract words from xml file\Extract words from xml file\bin\Debug\Extract words from xml file.pdb
+c:\users\sammx\documents\visual studio 2015\Projects\Extract words from xml file\Extract words from xml file\obj\Debug\Extract words from xml file.csprojResolveAssemblyReference.cache
+c:\users\sammx\documents\visual studio 2015\Projects\Extract words from xml file\Extract words from xml file\obj\Debug\Extract words from xml file.exe
+c:\users\sammx\documents\visual studio 2015\Projects\Extract words from xml file\Extract words from xml file\obj\Debug\Extract words from xml file.pdb

@@ -1,0 +1,6 @@
+c:\users\sammx\documents\visual studio 2015\Projects\Hex to Dec and Bin\Hex to Dec and Bin\bin\Debug\Hex to Dec and Bin.exe.config
+c:\users\sammx\documents\visual studio 2015\Projects\Hex to Dec and Bin\Hex to Dec and Bin\bin\Debug\Hex to Dec and Bin.exe
+c:\users\sammx\documents\visual studio 2015\Projects\Hex to Dec and Bin\Hex to Dec and Bin\bin\Debug\Hex to Dec and Bin.pdb
+c:\users\sammx\documents\visual studio 2015\Projects\Hex to Dec and Bin\Hex to Dec and Bin\obj\Debug\Hex to Dec and Bin.csprojResolveAssemblyReference.cache
+c:\users\sammx\documents\visual studio 2015\Projects\Hex to Dec and Bin\Hex to Dec and Bin\obj\Debug\Hex to Dec and Bin.exe
+c:\users\sammx\documents\visual studio 2015\Projects\Hex to Dec and Bin\Hex to Dec and Bin\obj\Debug\Hex to Dec and Bin.pdb

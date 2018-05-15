@@ -1,0 +1,6 @@
+c:\users\sammx\documents\visual studio 2015\Projects\Days btw dates\Days btw dates\bin\Debug\Days btw dates.exe.config
+c:\users\sammx\documents\visual studio 2015\Projects\Days btw dates\Days btw dates\bin\Debug\Days btw dates.exe
+c:\users\sammx\documents\visual studio 2015\Projects\Days btw dates\Days btw dates\bin\Debug\Days btw dates.pdb
+c:\users\sammx\documents\visual studio 2015\Projects\Days btw dates\Days btw dates\obj\Debug\Days btw dates.csprojResolveAssemblyReference.cache
+c:\users\sammx\documents\visual studio 2015\Projects\Days btw dates\Days btw dates\obj\Debug\Days btw dates.exe
+c:\users\sammx\documents\visual studio 2015\Projects\Days btw dates\Days btw dates\obj\Debug\Days btw dates.pdb

@@ -1,0 +1,6 @@
+c:\users\sammx\documents\visual studio 2015\Projects\20 char string Regex\20 char string Regex\bin\Debug\20 char string Regex.exe.config
+c:\users\sammx\documents\visual studio 2015\Projects\20 char string Regex\20 char string Regex\bin\Debug\20 char string Regex.exe
+c:\users\sammx\documents\visual studio 2015\Projects\20 char string Regex\20 char string Regex\bin\Debug\20 char string Regex.pdb
+c:\users\sammx\documents\visual studio 2015\Projects\20 char string Regex\20 char string Regex\obj\Debug\20 char string Regex.csprojResolveAssemblyReference.cache
+c:\users\sammx\documents\visual studio 2015\Projects\20 char string Regex\20 char string Regex\obj\Debug\20 char string Regex.exe
+c:\users\sammx\documents\visual studio 2015\Projects\20 char string Regex\20 char string Regex\obj\Debug\20 char string Regex.pdb

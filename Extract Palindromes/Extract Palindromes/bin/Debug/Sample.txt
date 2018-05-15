@@ -1,0 +1,6 @@
+Some examples of palindromic words are redivider,
+noon, civic, radar, level, rotor, kayak, reviver,
+racecar,redder, madam, and\r\nrefer. There are 
+also word-unit palindromes in which the unit of reversal
+ is the word("is it crazy how saying sentences backwards
+creates backwards sentences saying how crazy it is.

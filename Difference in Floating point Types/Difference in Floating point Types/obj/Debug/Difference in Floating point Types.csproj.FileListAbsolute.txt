@@ -1,0 +1,6 @@
+c:\users\sammx\documents\visual studio 2015\Projects\Difference in Floating point Types\Difference in Floating point Types\bin\Debug\Difference in Floating point Types.exe.config
+c:\users\sammx\documents\visual studio 2015\Projects\Difference in Floating point Types\Difference in Floating point Types\bin\Debug\Difference in Floating point Types.exe
+c:\users\sammx\documents\visual studio 2015\Projects\Difference in Floating point Types\Difference in Floating point Types\bin\Debug\Difference in Floating point Types.pdb
+c:\users\sammx\documents\visual studio 2015\Projects\Difference in Floating point Types\Difference in Floating point Types\obj\Debug\Difference in Floating point Types.csprojResolveAssemblyReference.cache
+c:\users\sammx\documents\visual studio 2015\Projects\Difference in Floating point Types\Difference in Floating point Types\obj\Debug\Difference in Floating point Types.exe
+c:\users\sammx\documents\visual studio 2015\Projects\Difference in Floating point Types\Difference in Floating point Types\obj\Debug\Difference in Floating point Types.pdb

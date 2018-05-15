@@ -1,0 +1,6 @@
+c:\users\sammx\documents\visual studio 2015\Projects\Convert to Binary\Convert to Binary\bin\Debug\Convert to Binary.exe.config
+c:\users\sammx\documents\visual studio 2015\Projects\Convert to Binary\Convert to Binary\bin\Debug\Convert to Binary.exe
+c:\users\sammx\documents\visual studio 2015\Projects\Convert to Binary\Convert to Binary\bin\Debug\Convert to Binary.pdb
+c:\users\sammx\documents\visual studio 2015\Projects\Convert to Binary\Convert to Binary\obj\Debug\Convert to Binary.csprojResolveAssemblyReference.cache
+c:\users\sammx\documents\visual studio 2015\Projects\Convert to Binary\Convert to Binary\obj\Debug\Convert to Binary.exe
+c:\users\sammx\documents\visual studio 2015\Projects\Convert to Binary\Convert to Binary\obj\Debug\Convert to Binary.pdb

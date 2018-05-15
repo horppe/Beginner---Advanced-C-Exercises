@@ -1,0 +1,6 @@
+c:\users\sammx\documents\visual studio 2015\Projects\Square matrix 3\Square matrix 3\bin\Debug\Square matrix 3.exe.config
+c:\users\sammx\documents\visual studio 2015\Projects\Square matrix 3\Square matrix 3\bin\Debug\Square matrix 3.exe
+c:\users\sammx\documents\visual studio 2015\Projects\Square matrix 3\Square matrix 3\bin\Debug\Square matrix 3.pdb
+c:\users\sammx\documents\visual studio 2015\Projects\Square matrix 3\Square matrix 3\obj\Debug\Square matrix 3.csprojResolveAssemblyReference.cache
+c:\users\sammx\documents\visual studio 2015\Projects\Square matrix 3\Square matrix 3\obj\Debug\Square matrix 3.exe
+c:\users\sammx\documents\visual studio 2015\Projects\Square matrix 3\Square matrix 3\obj\Debug\Square matrix 3.pdb

@@ -1,0 +1,6 @@
+c:\users\sammx\documents\visual studio 2015\Projects\Dynamic subset\Dynamic subset\bin\Debug\Dynamic subset.exe.config
+C:\Users\sammx\documents\visual studio 2015\Projects\Dynamic subset\Dynamic subset\bin\Debug\Dynamic subset.exe
+C:\Users\sammx\documents\visual studio 2015\Projects\Dynamic subset\Dynamic subset\bin\Debug\Dynamic subset.pdb
+C:\Users\sammx\documents\visual studio 2015\Projects\Dynamic subset\Dynamic subset\obj\Debug\Dynamic subset.csprojResolveAssemblyReference.cache
+C:\Users\sammx\documents\visual studio 2015\Projects\Dynamic subset\Dynamic subset\obj\Debug\Dynamic subset.exe
+C:\Users\sammx\documents\visual studio 2015\Projects\Dynamic subset\Dynamic subset\obj\Debug\Dynamic subset.pdb

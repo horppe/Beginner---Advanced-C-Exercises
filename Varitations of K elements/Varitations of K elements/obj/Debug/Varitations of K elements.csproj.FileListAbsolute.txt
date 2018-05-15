@@ -1,0 +1,6 @@
+c:\users\sammx\documents\visual studio 2015\Projects\Varitations of K elements\Varitations of K elements\bin\Debug\Varitations of K elements.exe.config
+c:\users\sammx\documents\visual studio 2015\Projects\Varitations of K elements\Varitations of K elements\bin\Debug\Varitations of K elements.exe
+c:\users\sammx\documents\visual studio 2015\Projects\Varitations of K elements\Varitations of K elements\bin\Debug\Varitations of K elements.pdb
+c:\users\sammx\documents\visual studio 2015\Projects\Varitations of K elements\Varitations of K elements\obj\Debug\Varitations of K elements.csprojResolveAssemblyReference.cache
+c:\users\sammx\documents\visual studio 2015\Projects\Varitations of K elements\Varitations of K elements\obj\Debug\Varitations of K elements.exe
+c:\users\sammx\documents\visual studio 2015\Projects\Varitations of K elements\Varitations of K elements\obj\Debug\Varitations of K elements.pdb

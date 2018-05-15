@@ -1,0 +1,6 @@
+c:\users\sammx\documents\visual studio 2015\Projects\Var with Dups of class k\Var with Dups of class k\bin\Debug\Var with Dups of class k.exe.config
+c:\users\sammx\documents\visual studio 2015\Projects\Var with Dups of class k\Var with Dups of class k\bin\Debug\Var with Dups of class k.exe
+c:\users\sammx\documents\visual studio 2015\Projects\Var with Dups of class k\Var with Dups of class k\bin\Debug\Var with Dups of class k.pdb
+c:\users\sammx\documents\visual studio 2015\Projects\Var with Dups of class k\Var with Dups of class k\obj\Debug\Var with Dups of class k.csprojResolveAssemblyReference.cache
+c:\users\sammx\documents\visual studio 2015\Projects\Var with Dups of class k\Var with Dups of class k\obj\Debug\Var with Dups of class k.exe
+c:\users\sammx\documents\visual studio 2015\Projects\Var with Dups of class k\Var with Dups of class k\obj\Debug\Var with Dups of class k.pdb

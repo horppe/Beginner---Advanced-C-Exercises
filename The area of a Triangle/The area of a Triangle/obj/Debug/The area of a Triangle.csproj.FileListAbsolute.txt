@@ -1,0 +1,6 @@
+c:\users\sammx\documents\visual studio 2015\Projects\The area of a Triangle\The area of a Triangle\bin\Debug\The area of a Triangle.exe.config
+c:\users\sammx\documents\visual studio 2015\Projects\The area of a Triangle\The area of a Triangle\bin\Debug\The area of a Triangle.exe
+c:\users\sammx\documents\visual studio 2015\Projects\The area of a Triangle\The area of a Triangle\bin\Debug\The area of a Triangle.pdb
+c:\users\sammx\documents\visual studio 2015\Projects\The area of a Triangle\The area of a Triangle\obj\Debug\The area of a Triangle.csprojResolveAssemblyReference.cache
+c:\users\sammx\documents\visual studio 2015\Projects\The area of a Triangle\The area of a Triangle\obj\Debug\The area of a Triangle.exe
+c:\users\sammx\documents\visual studio 2015\Projects\The area of a Triangle\The area of a Triangle\obj\Debug\The area of a Triangle.pdb

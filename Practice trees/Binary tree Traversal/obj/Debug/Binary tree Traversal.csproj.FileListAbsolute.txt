@@ -1,0 +1,6 @@
+C:\Users\sammx\documents\visual studio 2015\Projects\Practice trees\Binary tree Traversal\bin\Debug\Binary tree Traversal.exe.config
+C:\Users\sammx\documents\visual studio 2015\Projects\Practice trees\Binary tree Traversal\bin\Debug\Binary tree Traversal.exe
+C:\Users\sammx\documents\visual studio 2015\Projects\Practice trees\Binary tree Traversal\bin\Debug\Binary tree Traversal.pdb
+C:\Users\sammx\documents\visual studio 2015\Projects\Practice trees\Binary tree Traversal\obj\Debug\Binary tree Traversal.exe
+C:\Users\sammx\documents\visual studio 2015\Projects\Practice trees\Binary tree Traversal\obj\Debug\Binary tree Traversal.pdb
+C:\Users\sammx\documents\visual studio 2015\Projects\Practice trees\Binary tree Traversal\obj\Debug\Binary tree Traversal.csprojResolveAssemblyReference.cache

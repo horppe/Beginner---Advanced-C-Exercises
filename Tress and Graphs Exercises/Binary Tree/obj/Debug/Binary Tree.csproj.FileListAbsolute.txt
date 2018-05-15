@@ -1,0 +1,6 @@
+C:\Users\sammx\documents\visual studio 2015\Projects\Tress and Graphs Exercises\Binary Tree\bin\Debug\Binary Tree.exe.config
+C:\Users\sammx\documents\visual studio 2015\Projects\Tress and Graphs Exercises\Binary Tree\bin\Debug\Binary Tree.exe
+C:\Users\sammx\documents\visual studio 2015\Projects\Tress and Graphs Exercises\Binary Tree\bin\Debug\Binary Tree.pdb
+C:\Users\sammx\documents\visual studio 2015\Projects\Tress and Graphs Exercises\Binary Tree\obj\Debug\Binary Tree.csprojResolveAssemblyReference.cache
+C:\Users\sammx\documents\visual studio 2015\Projects\Tress and Graphs Exercises\Binary Tree\obj\Debug\Binary Tree.exe
+C:\Users\sammx\documents\visual studio 2015\Projects\Tress and Graphs Exercises\Binary Tree\obj\Debug\Binary Tree.pdb

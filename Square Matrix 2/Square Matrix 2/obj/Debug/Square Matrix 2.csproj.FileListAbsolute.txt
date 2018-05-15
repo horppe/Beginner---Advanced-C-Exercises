@@ -1,0 +1,6 @@
+c:\users\sammx\documents\visual studio 2015\Projects\Square Matrix 2\Square Matrix 2\bin\Debug\Square Matrix 2.exe.config
+c:\users\sammx\documents\visual studio 2015\Projects\Square Matrix 2\Square Matrix 2\bin\Debug\Square Matrix 2.exe
+c:\users\sammx\documents\visual studio 2015\Projects\Square Matrix 2\Square Matrix 2\bin\Debug\Square Matrix 2.pdb
+c:\users\sammx\documents\visual studio 2015\Projects\Square Matrix 2\Square Matrix 2\obj\Debug\Square Matrix 2.exe
+c:\users\sammx\documents\visual studio 2015\Projects\Square Matrix 2\Square Matrix 2\obj\Debug\Square Matrix 2.pdb
+C:\Users\sammx\documents\visual studio 2015\Projects\Square Matrix 2\Square Matrix 2\obj\Debug\Square Matrix 2.csprojResolveAssemblyReference.cache

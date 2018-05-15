@@ -1,0 +1,6 @@
+C:\Users\sammx\documents\visual studio 2015\Projects\Hash and Dics Examples\Implement a DictHashSet\bin\Debug\Implement a DictHashSet.exe.config
+C:\Users\sammx\documents\visual studio 2015\Projects\Hash and Dics Examples\Implement a DictHashSet\bin\Debug\Implement a DictHashSet.exe
+C:\Users\sammx\documents\visual studio 2015\Projects\Hash and Dics Examples\Implement a DictHashSet\bin\Debug\Implement a DictHashSet.pdb
+C:\Users\sammx\documents\visual studio 2015\Projects\Hash and Dics Examples\Implement a DictHashSet\obj\Debug\Implement a DictHashSet.csprojResolveAssemblyReference.cache
+C:\Users\sammx\documents\visual studio 2015\Projects\Hash and Dics Examples\Implement a DictHashSet\obj\Debug\Implement a DictHashSet.exe
+C:\Users\sammx\documents\visual studio 2015\Projects\Hash and Dics Examples\Implement a DictHashSet\obj\Debug\Implement a DictHashSet.pdb

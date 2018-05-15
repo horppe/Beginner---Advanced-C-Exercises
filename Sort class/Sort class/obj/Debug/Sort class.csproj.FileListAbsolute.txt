@@ -1,0 +1,6 @@
+c:\users\sammx\documents\visual studio 2015\Projects\Sort class\Sort class\bin\Debug\Sort class.exe.config
+c:\users\sammx\documents\visual studio 2015\Projects\Sort class\Sort class\bin\Debug\Sort class.exe
+c:\users\sammx\documents\visual studio 2015\Projects\Sort class\Sort class\bin\Debug\Sort class.pdb
+c:\users\sammx\documents\visual studio 2015\Projects\Sort class\Sort class\obj\Debug\Sort class.csprojResolveAssemblyReference.cache
+c:\users\sammx\documents\visual studio 2015\Projects\Sort class\Sort class\obj\Debug\Sort class.exe
+c:\users\sammx\documents\visual studio 2015\Projects\Sort class\Sort class\obj\Debug\Sort class.pdb

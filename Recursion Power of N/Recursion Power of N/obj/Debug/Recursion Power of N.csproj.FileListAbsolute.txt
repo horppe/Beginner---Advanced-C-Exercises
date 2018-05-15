@@ -1,0 +1,5 @@
+c:\users\sammx\documents\visual studio 2015\Projects\Recursion Power of N\Recursion Power of N\bin\Debug\Recursion Power of N.exe.config
+c:\users\sammx\documents\visual studio 2015\Projects\Recursion Power of N\Recursion Power of N\bin\Debug\Recursion Power of N.exe
+c:\users\sammx\documents\visual studio 2015\Projects\Recursion Power of N\Recursion Power of N\bin\Debug\Recursion Power of N.pdb
+c:\users\sammx\documents\visual studio 2015\Projects\Recursion Power of N\Recursion Power of N\obj\Debug\Recursion Power of N.exe
+c:\users\sammx\documents\visual studio 2015\Projects\Recursion Power of N\Recursion Power of N\obj\Debug\Recursion Power of N.pdb

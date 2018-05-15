@@ -1,0 +1,6 @@
+c:\users\sammx\documents\visual studio 2015\Projects\Hub User\Hub User\bin\Debug\Hub User.exe.config
+c:\users\sammx\documents\visual studio 2015\Projects\Hub User\Hub User\bin\Debug\Hub User.exe
+c:\users\sammx\documents\visual studio 2015\Projects\Hub User\Hub User\bin\Debug\Hub User.pdb
+c:\users\sammx\documents\visual studio 2015\Projects\Hub User\Hub User\obj\Debug\Hub User.csprojResolveAssemblyReference.cache
+c:\users\sammx\documents\visual studio 2015\Projects\Hub User\Hub User\obj\Debug\Hub User.exe
+c:\users\sammx\documents\visual studio 2015\Projects\Hub User\Hub User\obj\Debug\Hub User.pdb

@@ -1,0 +1,6 @@
+c:\users\sammx\documents\visual studio 2015\Projects\Delete word Test\Delete word Test\bin\Debug\Delete word Test.exe.config
+C:\Users\sammx\documents\visual studio 2015\Projects\Delete word Test\Delete word Test\bin\Debug\Delete word Test.exe
+C:\Users\sammx\documents\visual studio 2015\Projects\Delete word Test\Delete word Test\bin\Debug\Delete word Test.pdb
+C:\Users\sammx\documents\visual studio 2015\Projects\Delete word Test\Delete word Test\obj\Debug\Delete word Test.csprojResolveAssemblyReference.cache
+C:\Users\sammx\documents\visual studio 2015\Projects\Delete word Test\Delete word Test\obj\Debug\Delete word Test.exe
+C:\Users\sammx\documents\visual studio 2015\Projects\Delete word Test\Delete word Test\obj\Debug\Delete word Test.pdb

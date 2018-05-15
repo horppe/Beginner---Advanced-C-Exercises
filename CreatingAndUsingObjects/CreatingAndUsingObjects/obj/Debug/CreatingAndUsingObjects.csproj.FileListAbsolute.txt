@@ -1,0 +1,6 @@
+c:\users\sammx\documents\visual studio 2015\Projects\CreatingAndUsingObjects\CreatingAndUsingObjects\bin\Debug\CreatingAndUsingObjects.exe.config
+c:\users\sammx\documents\visual studio 2015\Projects\CreatingAndUsingObjects\CreatingAndUsingObjects\bin\Debug\CreatingAndUsingObjects.exe
+c:\users\sammx\documents\visual studio 2015\Projects\CreatingAndUsingObjects\CreatingAndUsingObjects\bin\Debug\CreatingAndUsingObjects.pdb
+c:\users\sammx\documents\visual studio 2015\Projects\CreatingAndUsingObjects\CreatingAndUsingObjects\obj\Debug\CreatingAndUsingObjects.csprojResolveAssemblyReference.cache
+c:\users\sammx\documents\visual studio 2015\Projects\CreatingAndUsingObjects\CreatingAndUsingObjects\obj\Debug\CreatingAndUsingObjects.exe
+c:\users\sammx\documents\visual studio 2015\Projects\CreatingAndUsingObjects\CreatingAndUsingObjects\obj\Debug\CreatingAndUsingObjects.pdb

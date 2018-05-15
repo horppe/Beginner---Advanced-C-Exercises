@@ -1,0 +1,6 @@
+c:\users\sammx\documents\visual studio 2015\Projects\Roman to Arabic\Roman to Arabic\bin\Debug\Roman to Arabic.exe.config
+c:\users\sammx\documents\visual studio 2015\Projects\Roman to Arabic\Roman to Arabic\bin\Debug\Roman to Arabic.exe
+c:\users\sammx\documents\visual studio 2015\Projects\Roman to Arabic\Roman to Arabic\bin\Debug\Roman to Arabic.pdb
+c:\users\sammx\documents\visual studio 2015\Projects\Roman to Arabic\Roman to Arabic\obj\Debug\Roman to Arabic.csprojResolveAssemblyReference.cache
+c:\users\sammx\documents\visual studio 2015\Projects\Roman to Arabic\Roman to Arabic\obj\Debug\Roman to Arabic.exe
+c:\users\sammx\documents\visual studio 2015\Projects\Roman to Arabic\Roman to Arabic\obj\Debug\Roman to Arabic.pdb

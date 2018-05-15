@@ -1,0 +1,6 @@
+c:\users\sammx\documents\visual studio 2015\Projects\N nested loops\N nested loops\bin\Debug\N nested loops.exe.config
+c:\users\sammx\documents\visual studio 2015\Projects\N nested loops\N nested loops\bin\Debug\N nested loops.exe
+c:\users\sammx\documents\visual studio 2015\Projects\N nested loops\N nested loops\bin\Debug\N nested loops.pdb
+c:\users\sammx\documents\visual studio 2015\Projects\N nested loops\N nested loops\obj\Debug\N nested loops.csprojResolveAssemblyReference.cache
+c:\users\sammx\documents\visual studio 2015\Projects\N nested loops\N nested loops\obj\Debug\N nested loops.exe
+c:\users\sammx\documents\visual studio 2015\Projects\N nested loops\N nested loops\obj\Debug\N nested loops.pdb

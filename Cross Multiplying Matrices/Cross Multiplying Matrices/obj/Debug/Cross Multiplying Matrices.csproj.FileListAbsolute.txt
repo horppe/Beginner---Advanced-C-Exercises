@@ -1,0 +1,6 @@
+c:\users\sammx\documents\visual studio 2015\Projects\Cross Multiplying Matrices\Cross Multiplying Matrices\bin\Debug\Cross Multiplying Matrices.exe.config
+c:\users\sammx\documents\visual studio 2015\Projects\Cross Multiplying Matrices\Cross Multiplying Matrices\obj\Debug\Cross Multiplying Matrices.csprojResolveAssemblyReference.cache
+c:\users\sammx\documents\visual studio 2015\Projects\Cross Multiplying Matrices\Cross Multiplying Matrices\bin\Debug\Cross Multiplying Matrices.exe
+c:\users\sammx\documents\visual studio 2015\Projects\Cross Multiplying Matrices\Cross Multiplying Matrices\bin\Debug\Cross Multiplying Matrices.pdb
+c:\users\sammx\documents\visual studio 2015\Projects\Cross Multiplying Matrices\Cross Multiplying Matrices\obj\Debug\Cross Multiplying Matrices.exe
+c:\users\sammx\documents\visual studio 2015\Projects\Cross Multiplying Matrices\Cross Multiplying Matrices\obj\Debug\Cross Multiplying Matrices.pdb

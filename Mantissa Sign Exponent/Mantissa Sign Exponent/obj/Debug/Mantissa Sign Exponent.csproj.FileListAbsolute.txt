@@ -1,0 +1,6 @@
+c:\users\sammx\documents\visual studio 2015\Projects\Mantissa Sign Exponent\Mantissa Sign Exponent\bin\Debug\Mantissa Sign Exponent.exe.config
+c:\users\sammx\documents\visual studio 2015\Projects\Mantissa Sign Exponent\Mantissa Sign Exponent\bin\Debug\Mantissa Sign Exponent.exe
+c:\users\sammx\documents\visual studio 2015\Projects\Mantissa Sign Exponent\Mantissa Sign Exponent\bin\Debug\Mantissa Sign Exponent.pdb
+c:\users\sammx\documents\visual studio 2015\Projects\Mantissa Sign Exponent\Mantissa Sign Exponent\obj\Debug\Mantissa Sign Exponent.csprojResolveAssemblyReference.cache
+c:\users\sammx\documents\visual studio 2015\Projects\Mantissa Sign Exponent\Mantissa Sign Exponent\obj\Debug\Mantissa Sign Exponent.exe
+c:\users\sammx\documents\visual studio 2015\Projects\Mantissa Sign Exponent\Mantissa Sign Exponent\obj\Debug\Mantissa Sign Exponent.pdb

@@ -1,0 +1,6 @@
+c:\users\sammx\documents\visual studio 2015\Projects\Book Library\Book Library\bin\Debug\Book Library.exe.config
+c:\users\sammx\documents\visual studio 2015\Projects\Book Library\Book Library\bin\Debug\Book Library.exe
+c:\users\sammx\documents\visual studio 2015\Projects\Book Library\Book Library\bin\Debug\Book Library.pdb
+c:\users\sammx\documents\visual studio 2015\Projects\Book Library\Book Library\obj\Debug\Book Library.csprojResolveAssemblyReference.cache
+c:\users\sammx\documents\visual studio 2015\Projects\Book Library\Book Library\obj\Debug\Book Library.exe
+c:\users\sammx\documents\visual studio 2015\Projects\Book Library\Book Library\obj\Debug\Book Library.pdb

@@ -1,0 +1,6 @@
+c:\users\sammx\documents\visual studio 2015\Projects\Fraction Class\Fraction Class\bin\Debug\Fraction Class.exe.config
+c:\users\sammx\documents\visual studio 2015\Projects\Fraction Class\Fraction Class\bin\Debug\Fraction Class.exe
+c:\users\sammx\documents\visual studio 2015\Projects\Fraction Class\Fraction Class\bin\Debug\Fraction Class.pdb
+c:\users\sammx\documents\visual studio 2015\Projects\Fraction Class\Fraction Class\obj\Debug\Fraction Class.csprojResolveAssemblyReference.cache
+c:\users\sammx\documents\visual studio 2015\Projects\Fraction Class\Fraction Class\obj\Debug\Fraction Class.exe
+c:\users\sammx\documents\visual studio 2015\Projects\Fraction Class\Fraction Class\obj\Debug\Fraction Class.pdb

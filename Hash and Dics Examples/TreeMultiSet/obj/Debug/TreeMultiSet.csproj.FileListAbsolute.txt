@@ -1,0 +1,6 @@
+C:\Users\sammx\documents\visual studio 2015\Projects\Hash and Dics Examples\TreeMultiSet\bin\Debug\TreeMultiSet.exe.config
+C:\Users\sammx\documents\visual studio 2015\Projects\Hash and Dics Examples\TreeMultiSet\bin\Debug\TreeMultiSet.exe
+C:\Users\sammx\documents\visual studio 2015\Projects\Hash and Dics Examples\TreeMultiSet\bin\Debug\TreeMultiSet.pdb
+C:\Users\sammx\documents\visual studio 2015\Projects\Hash and Dics Examples\TreeMultiSet\obj\Debug\TreeMultiSet.csprojResolveAssemblyReference.cache
+C:\Users\sammx\documents\visual studio 2015\Projects\Hash and Dics Examples\TreeMultiSet\obj\Debug\TreeMultiSet.exe
+C:\Users\sammx\documents\visual studio 2015\Projects\Hash and Dics Examples\TreeMultiSet\obj\Debug\TreeMultiSet.pdb

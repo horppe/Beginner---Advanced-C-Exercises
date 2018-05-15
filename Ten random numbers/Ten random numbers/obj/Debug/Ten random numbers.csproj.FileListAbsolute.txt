@@ -1,0 +1,6 @@
+c:\users\sammx\documents\visual studio 2015\Projects\Ten random numbers\Ten random numbers\bin\Debug\Ten random numbers.exe.config
+c:\users\sammx\documents\visual studio 2015\Projects\Ten random numbers\Ten random numbers\bin\Debug\Ten random numbers.exe
+c:\users\sammx\documents\visual studio 2015\Projects\Ten random numbers\Ten random numbers\bin\Debug\Ten random numbers.pdb
+c:\users\sammx\documents\visual studio 2015\Projects\Ten random numbers\Ten random numbers\obj\Debug\Ten random numbers.csprojResolveAssemblyReference.cache
+c:\users\sammx\documents\visual studio 2015\Projects\Ten random numbers\Ten random numbers\obj\Debug\Ten random numbers.exe
+c:\users\sammx\documents\visual studio 2015\Projects\Ten random numbers\Ten random numbers\obj\Debug\Ten random numbers.pdb

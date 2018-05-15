@@ -1,0 +1,6 @@
+C:\Users\sammx\documents\visual studio 2015\Projects\Hash and Dics Examples\Hash and Dics Examples\bin\Debug\Hash and Dics Examples.exe.config
+C:\Users\sammx\documents\visual studio 2015\Projects\Hash and Dics Examples\Hash and Dics Examples\bin\Debug\Hash and Dics Examples.exe
+C:\Users\sammx\documents\visual studio 2015\Projects\Hash and Dics Examples\Hash and Dics Examples\bin\Debug\Hash and Dics Examples.pdb
+C:\Users\sammx\documents\visual studio 2015\Projects\Hash and Dics Examples\Hash and Dics Examples\obj\Debug\Exercise One.csprojResolveAssemblyReference.cache
+C:\Users\sammx\documents\visual studio 2015\Projects\Hash and Dics Examples\Hash and Dics Examples\obj\Debug\Hash and Dics Examples.exe
+C:\Users\sammx\documents\visual studio 2015\Projects\Hash and Dics Examples\Hash and Dics Examples\obj\Debug\Hash and Dics Examples.pdb

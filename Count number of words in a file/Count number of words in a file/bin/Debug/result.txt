@@ -1,0 +1,5 @@
+"i" occured 12 time(s)
+"test" occured 2 time(s)
+"and" occured 1 time(s)
+"something" occured 1 time(s)
+"all" occured 1 time(s)

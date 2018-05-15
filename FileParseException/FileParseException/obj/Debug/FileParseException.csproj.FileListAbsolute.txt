@@ -1,0 +1,6 @@
+c:\users\sammx\documents\visual studio 2015\Projects\FileParseException\FileParseException\bin\Debug\FileParseException.exe.config
+c:\users\sammx\documents\visual studio 2015\Projects\FileParseException\FileParseException\bin\Debug\FileParseException.exe
+c:\users\sammx\documents\visual studio 2015\Projects\FileParseException\FileParseException\bin\Debug\FileParseException.pdb
+c:\users\sammx\documents\visual studio 2015\Projects\FileParseException\FileParseException\obj\Debug\FileParseException.csprojResolveAssemblyReference.cache
+c:\users\sammx\documents\visual studio 2015\Projects\FileParseException\FileParseException\obj\Debug\FileParseException.exe
+c:\users\sammx\documents\visual studio 2015\Projects\FileParseException\FileParseException\obj\Debug\FileParseException.pdb

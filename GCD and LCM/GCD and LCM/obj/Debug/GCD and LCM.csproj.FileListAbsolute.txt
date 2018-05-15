@@ -1,0 +1,6 @@
+c:\users\sammx\documents\visual studio 2015\Projects\GCD and LCM\GCD and LCM\bin\Debug\GCD and LCM.exe.config
+c:\users\sammx\documents\visual studio 2015\Projects\GCD and LCM\GCD and LCM\obj\Debug\GCD and LCM.csprojResolveAssemblyReference.cache
+c:\users\sammx\documents\visual studio 2015\Projects\GCD and LCM\GCD and LCM\bin\Debug\GCD and LCM.exe
+c:\users\sammx\documents\visual studio 2015\Projects\GCD and LCM\GCD and LCM\bin\Debug\GCD and LCM.pdb
+c:\users\sammx\documents\visual studio 2015\Projects\GCD and LCM\GCD and LCM\obj\Debug\GCD and LCM.exe
+c:\users\sammx\documents\visual studio 2015\Projects\GCD and LCM\GCD and LCM\obj\Debug\GCD and LCM.pdb

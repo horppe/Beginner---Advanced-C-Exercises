@@ -1,0 +1,6 @@
+c:\users\sammx\documents\visual studio 2015\Projects\Recursion Factorial\Recursion Factorial\bin\Debug\Recursion Factorial.exe.config
+c:\users\sammx\documents\visual studio 2015\Projects\Recursion Factorial\Recursion Factorial\bin\Debug\Recursion Factorial.exe
+c:\users\sammx\documents\visual studio 2015\Projects\Recursion Factorial\Recursion Factorial\bin\Debug\Recursion Factorial.pdb
+c:\users\sammx\documents\visual studio 2015\Projects\Recursion Factorial\Recursion Factorial\obj\Debug\Recursion Factorial.csprojResolveAssemblyReference.cache
+c:\users\sammx\documents\visual studio 2015\Projects\Recursion Factorial\Recursion Factorial\obj\Debug\Recursion Factorial.exe
+c:\users\sammx\documents\visual studio 2015\Projects\Recursion Factorial\Recursion Factorial\obj\Debug\Recursion Factorial.pdb

@@ -1,0 +1,6 @@
+c:\users\sammx\documents\visual studio 2015\Projects\Swirl Matrix\Swirl Matrix\bin\Debug\Swirl Matrix.exe.config
+c:\users\sammx\documents\visual studio 2015\Projects\Swirl Matrix\Swirl Matrix\bin\Debug\Swirl Matrix.exe
+c:\users\sammx\documents\visual studio 2015\Projects\Swirl Matrix\Swirl Matrix\bin\Debug\Swirl Matrix.pdb
+c:\users\sammx\documents\visual studio 2015\Projects\Swirl Matrix\Swirl Matrix\obj\Debug\Swirl Matrix.csprojResolveAssemblyReference.cache
+c:\users\sammx\documents\visual studio 2015\Projects\Swirl Matrix\Swirl Matrix\obj\Debug\Swirl Matrix.exe
+c:\users\sammx\documents\visual studio 2015\Projects\Swirl Matrix\Swirl Matrix\obj\Debug\Swirl Matrix.pdb

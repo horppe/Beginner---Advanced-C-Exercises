@@ -1,0 +1,6 @@
+c:\users\sammx\documents\visual studio 2015\Projects\Lexicographical order\Lexicographical order\bin\Debug\Lexicographical order.exe.config
+C:\Users\sammx\documents\visual studio 2015\Projects\Lexicographical order\Lexicographical order\bin\Debug\Lexicographical order.exe
+C:\Users\sammx\documents\visual studio 2015\Projects\Lexicographical order\Lexicographical order\bin\Debug\Lexicographical order.pdb
+C:\Users\sammx\documents\visual studio 2015\Projects\Lexicographical order\Lexicographical order\obj\Debug\Lexicographical order.csprojResolveAssemblyReference.cache
+C:\Users\sammx\documents\visual studio 2015\Projects\Lexicographical order\Lexicographical order\obj\Debug\Lexicographical order.exe
+C:\Users\sammx\documents\visual studio 2015\Projects\Lexicographical order\Lexicographical order\obj\Debug\Lexicographical order.pdb

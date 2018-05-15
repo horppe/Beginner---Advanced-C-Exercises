@@ -1,0 +1,6 @@
+c:\users\sammx\documents\visual studio 2015\Projects\Subset sum N\Subset sum N\bin\Debug\Subset sum N.exe.config
+c:\users\sammx\documents\visual studio 2015\Projects\Subset sum N\Subset sum N\bin\Debug\Subset sum N.exe
+c:\users\sammx\documents\visual studio 2015\Projects\Subset sum N\Subset sum N\bin\Debug\Subset sum N.pdb
+c:\users\sammx\documents\visual studio 2015\Projects\Subset sum N\Subset sum N\obj\Debug\Subset sum N.csprojResolveAssemblyReference.cache
+c:\users\sammx\documents\visual studio 2015\Projects\Subset sum N\Subset sum N\obj\Debug\Subset sum N.exe
+c:\users\sammx\documents\visual studio 2015\Projects\Subset sum N\Subset sum N\obj\Debug\Subset sum N.pdb

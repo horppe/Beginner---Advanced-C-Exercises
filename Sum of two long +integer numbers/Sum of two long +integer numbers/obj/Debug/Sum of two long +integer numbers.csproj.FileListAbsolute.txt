@@ -1,0 +1,6 @@
+c:\users\sammx\documents\visual studio 2015\Projects\Sum of two long +integer numbers\Sum of two long +integer numbers\bin\Debug\Sum of two long +integer numbers.exe.config
+c:\users\sammx\documents\visual studio 2015\Projects\Sum of two long +integer numbers\Sum of two long +integer numbers\bin\Debug\Sum of two long +integer numbers.exe
+c:\users\sammx\documents\visual studio 2015\Projects\Sum of two long +integer numbers\Sum of two long +integer numbers\bin\Debug\Sum of two long +integer numbers.pdb
+c:\users\sammx\documents\visual studio 2015\Projects\Sum of two long +integer numbers\Sum of two long +integer numbers\obj\Debug\Sum of two long +integer numbers.csprojResolveAssemblyReference.cache
+c:\users\sammx\documents\visual studio 2015\Projects\Sum of two long +integer numbers\Sum of two long +integer numbers\obj\Debug\Sum of two long +integer numbers.exe
+c:\users\sammx\documents\visual studio 2015\Projects\Sum of two long +integer numbers\Sum of two long +integer numbers\obj\Debug\Sum of two long +integer numbers.pdb

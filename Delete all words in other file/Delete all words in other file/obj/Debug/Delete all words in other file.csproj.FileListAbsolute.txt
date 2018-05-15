@@ -1,0 +1,6 @@
+c:\users\sammx\documents\visual studio 2015\Projects\Delete all words in other file\Delete all words in other file\bin\Debug\Delete all words in other file.exe.config
+c:\users\sammx\documents\visual studio 2015\Projects\Delete all words in other file\Delete all words in other file\bin\Debug\Delete all words in other file.exe
+c:\users\sammx\documents\visual studio 2015\Projects\Delete all words in other file\Delete all words in other file\bin\Debug\Delete all words in other file.pdb
+c:\users\sammx\documents\visual studio 2015\Projects\Delete all words in other file\Delete all words in other file\obj\Debug\Delete all words in other file.csprojResolveAssemblyReference.cache
+c:\users\sammx\documents\visual studio 2015\Projects\Delete all words in other file\Delete all words in other file\obj\Debug\Delete all words in other file.exe
+c:\users\sammx\documents\visual studio 2015\Projects\Delete all words in other file\Delete all words in other file\obj\Debug\Delete all words in other file.pdb

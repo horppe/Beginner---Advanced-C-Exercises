@@ -1,0 +1,6 @@
+c:\users\sammx\documents\visual studio 2015\Projects\Permutations of N numbers\Permutations of N numbers\bin\Debug\Permutations of N numbers.exe.config
+c:\users\sammx\documents\visual studio 2015\Projects\Permutations of N numbers\Permutations of N numbers\bin\Debug\Permutations of N numbers.exe
+c:\users\sammx\documents\visual studio 2015\Projects\Permutations of N numbers\Permutations of N numbers\bin\Debug\Permutations of N numbers.pdb
+c:\users\sammx\documents\visual studio 2015\Projects\Permutations of N numbers\Permutations of N numbers\obj\Debug\Permutations of N numbers.csprojResolveAssemblyReference.cache
+c:\users\sammx\documents\visual studio 2015\Projects\Permutations of N numbers\Permutations of N numbers\obj\Debug\Permutations of N numbers.exe
+c:\users\sammx\documents\visual studio 2015\Projects\Permutations of N numbers\Permutations of N numbers\obj\Debug\Permutations of N numbers.pdb

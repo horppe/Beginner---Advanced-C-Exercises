@@ -1,0 +1,2 @@
+<p>Please visit <a href="http://softuni.org">our site</a> to choose a training course.
+ Also visit <a href= "http://forum.softuni.org">our forum</a> to discuss the courses.</p>

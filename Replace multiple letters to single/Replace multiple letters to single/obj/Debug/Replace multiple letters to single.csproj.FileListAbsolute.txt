@@ -1,0 +1,6 @@
+c:\users\sammx\documents\visual studio 2015\Projects\Replace multiple letters to single\Replace multiple letters to single\bin\Debug\Replace multiple letters to single.exe.config
+c:\users\sammx\documents\visual studio 2015\Projects\Replace multiple letters to single\Replace multiple letters to single\bin\Debug\Replace multiple letters to single.exe
+c:\users\sammx\documents\visual studio 2015\Projects\Replace multiple letters to single\Replace multiple letters to single\bin\Debug\Replace multiple letters to single.pdb
+c:\users\sammx\documents\visual studio 2015\Projects\Replace multiple letters to single\Replace multiple letters to single\obj\Debug\Replace multiple letters to single.csprojResolveAssemblyReference.cache
+c:\users\sammx\documents\visual studio 2015\Projects\Replace multiple letters to single\Replace multiple letters to single\obj\Debug\Replace multiple letters to single.exe
+c:\users\sammx\documents\visual studio 2015\Projects\Replace multiple letters to single\Replace multiple letters to single\obj\Debug\Replace multiple letters to single.pdb

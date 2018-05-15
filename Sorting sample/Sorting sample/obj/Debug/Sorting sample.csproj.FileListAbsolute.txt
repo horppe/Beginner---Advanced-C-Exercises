@@ -1,0 +1,6 @@
+c:\users\sammx\documents\visual studio 2015\Projects\Sorting sample\Sorting sample\bin\Debug\Sorting sample.exe.config
+c:\users\sammx\documents\visual studio 2015\Projects\Sorting sample\Sorting sample\obj\Debug\Sorting sample.csprojResolveAssemblyReference.cache
+c:\users\sammx\documents\visual studio 2015\Projects\Sorting sample\Sorting sample\bin\Debug\Sorting sample.exe
+c:\users\sammx\documents\visual studio 2015\Projects\Sorting sample\Sorting sample\bin\Debug\Sorting sample.pdb
+c:\users\sammx\documents\visual studio 2015\Projects\Sorting sample\Sorting sample\obj\Debug\Sorting sample.exe
+c:\users\sammx\documents\visual studio 2015\Projects\Sorting sample\Sorting sample\obj\Debug\Sorting sample.pdb

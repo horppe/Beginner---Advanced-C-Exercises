@@ -1,0 +1,6 @@
+c:\users\sammx\documents\visual studio 2015\Projects\K Consecutive elements\K Consecutive elements\bin\Debug\K Consecutive elements.exe.config
+c:\users\sammx\documents\visual studio 2015\Projects\K Consecutive elements\K Consecutive elements\bin\Debug\K Consecutive elements.exe
+c:\users\sammx\documents\visual studio 2015\Projects\K Consecutive elements\K Consecutive elements\bin\Debug\K Consecutive elements.pdb
+c:\users\sammx\documents\visual studio 2015\Projects\K Consecutive elements\K Consecutive elements\obj\Debug\K Consecutive elements.csprojResolveAssemblyReference.cache
+c:\users\sammx\documents\visual studio 2015\Projects\K Consecutive elements\K Consecutive elements\obj\Debug\K Consecutive elements.exe
+c:\users\sammx\documents\visual studio 2015\Projects\K Consecutive elements\K Consecutive elements\obj\Debug\K Consecutive elements.pdb

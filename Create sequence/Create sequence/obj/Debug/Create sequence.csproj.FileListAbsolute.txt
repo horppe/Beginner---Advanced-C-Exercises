@@ -1,0 +1,6 @@
+c:\users\sammx\documents\visual studio 2015\Projects\Create sequence\Create sequence\bin\Debug\Create sequence.exe.config
+c:\users\sammx\documents\visual studio 2015\Projects\Create sequence\Create sequence\bin\Debug\Create sequence.exe
+c:\users\sammx\documents\visual studio 2015\Projects\Create sequence\Create sequence\bin\Debug\Create sequence.pdb
+c:\users\sammx\documents\visual studio 2015\Projects\Create sequence\Create sequence\obj\Debug\Create sequence.csprojResolveAssemblyReference.cache
+c:\users\sammx\documents\visual studio 2015\Projects\Create sequence\Create sequence\obj\Debug\Create sequence.exe
+c:\users\sammx\documents\visual studio 2015\Projects\Create sequence\Create sequence\obj\Debug\Create sequence.pdb

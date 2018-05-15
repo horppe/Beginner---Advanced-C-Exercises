@@ -1,0 +1,6 @@
+c:\users\sammx\documents\visual studio 2015\Projects\Recursion Decimal to binary\Recursion Decimal to binary\bin\Debug\Recursion Decimal to binary.exe.config
+c:\users\sammx\documents\visual studio 2015\Projects\Recursion Decimal to binary\Recursion Decimal to binary\bin\Debug\Recursion Decimal to binary.exe
+c:\users\sammx\documents\visual studio 2015\Projects\Recursion Decimal to binary\Recursion Decimal to binary\bin\Debug\Recursion Decimal to binary.pdb
+c:\users\sammx\documents\visual studio 2015\Projects\Recursion Decimal to binary\Recursion Decimal to binary\obj\Debug\Recursion Decimal to binary.csprojResolveAssemblyReference.cache
+c:\users\sammx\documents\visual studio 2015\Projects\Recursion Decimal to binary\Recursion Decimal to binary\obj\Debug\Recursion Decimal to binary.exe
+c:\users\sammx\documents\visual studio 2015\Projects\Recursion Decimal to binary\Recursion Decimal to binary\obj\Debug\Recursion Decimal to binary.pdb

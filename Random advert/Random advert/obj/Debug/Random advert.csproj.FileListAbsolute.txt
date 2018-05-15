@@ -1,0 +1,6 @@
+c:\users\sammx\documents\visual studio 2015\Projects\Random advert\Random advert\bin\Debug\Random advert.exe.config
+c:\users\sammx\documents\visual studio 2015\Projects\Random advert\Random advert\bin\Debug\Random advert.exe
+c:\users\sammx\documents\visual studio 2015\Projects\Random advert\Random advert\bin\Debug\Random advert.pdb
+c:\users\sammx\documents\visual studio 2015\Projects\Random advert\Random advert\obj\Debug\Random advert.csprojResolveAssemblyReference.cache
+c:\users\sammx\documents\visual studio 2015\Projects\Random advert\Random advert\obj\Debug\Random advert.exe
+c:\users\sammx\documents\visual studio 2015\Projects\Random advert\Random advert\obj\Debug\Random advert.pdb

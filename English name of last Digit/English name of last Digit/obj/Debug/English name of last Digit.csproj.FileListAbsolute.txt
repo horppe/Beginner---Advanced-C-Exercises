@@ -1,0 +1,6 @@
+c:\users\sammx\documents\visual studio 2015\Projects\English name of last Digit\English name of last Digit\bin\Debug\English name of last Digit.exe.config
+c:\users\sammx\documents\visual studio 2015\Projects\English name of last Digit\English name of last Digit\bin\Debug\English name of last Digit.exe
+c:\users\sammx\documents\visual studio 2015\Projects\English name of last Digit\English name of last Digit\bin\Debug\English name of last Digit.pdb
+c:\users\sammx\documents\visual studio 2015\Projects\English name of last Digit\English name of last Digit\obj\Debug\English name of last Digit.csprojResolveAssemblyReference.cache
+c:\users\sammx\documents\visual studio 2015\Projects\English name of last Digit\English name of last Digit\obj\Debug\English name of last Digit.exe
+c:\users\sammx\documents\visual studio 2015\Projects\English name of last Digit\English name of last Digit\obj\Debug\English name of last Digit.pdb

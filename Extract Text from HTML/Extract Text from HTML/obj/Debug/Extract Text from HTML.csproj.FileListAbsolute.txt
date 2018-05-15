@@ -1,0 +1,6 @@
+c:\users\sammx\documents\visual studio 2015\Projects\Extract Text from HTML\Extract Text from HTML\bin\Debug\Extract Text from HTML.exe.config
+c:\users\sammx\documents\visual studio 2015\Projects\Extract Text from HTML\Extract Text from HTML\bin\Debug\Extract Text from HTML.exe
+c:\users\sammx\documents\visual studio 2015\Projects\Extract Text from HTML\Extract Text from HTML\bin\Debug\Extract Text from HTML.pdb
+c:\users\sammx\documents\visual studio 2015\Projects\Extract Text from HTML\Extract Text from HTML\obj\Debug\Extract Text from HTML.csprojResolveAssemblyReference.cache
+c:\users\sammx\documents\visual studio 2015\Projects\Extract Text from HTML\Extract Text from HTML\obj\Debug\Extract Text from HTML.exe
+c:\users\sammx\documents\visual studio 2015\Projects\Extract Text from HTML\Extract Text from HTML\obj\Debug\Extract Text from HTML.pdb

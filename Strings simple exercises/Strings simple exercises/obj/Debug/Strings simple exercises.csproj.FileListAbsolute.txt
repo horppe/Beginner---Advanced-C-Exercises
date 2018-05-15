@@ -1,0 +1,6 @@
+c:\users\sammx\documents\visual studio 2015\Projects\Strings simple exercises\Strings simple exercises\bin\Debug\Strings simple exercises.exe.config
+c:\users\sammx\documents\visual studio 2015\Projects\Strings simple exercises\Strings simple exercises\bin\Debug\Strings simple exercises.exe
+c:\users\sammx\documents\visual studio 2015\Projects\Strings simple exercises\Strings simple exercises\bin\Debug\Strings simple exercises.pdb
+c:\users\sammx\documents\visual studio 2015\Projects\Strings simple exercises\Strings simple exercises\obj\Debug\Strings simple exercises.csprojResolveAssemblyReference.cache
+c:\users\sammx\documents\visual studio 2015\Projects\Strings simple exercises\Strings simple exercises\obj\Debug\Strings simple exercises.exe
+c:\users\sammx\documents\visual studio 2015\Projects\Strings simple exercises\Strings simple exercises\obj\Debug\Strings simple exercises.pdb

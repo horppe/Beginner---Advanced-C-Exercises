@@ -1,0 +1,6 @@
+c:\users\sammx\documents\visual studio 2015\Projects\Dynamic Stack\Dynamic Stack\bin\Debug\Dynamic Stack.exe.config
+c:\users\sammx\documents\visual studio 2015\Projects\Dynamic Stack\Dynamic Stack\bin\Debug\Dynamic Stack.exe
+c:\users\sammx\documents\visual studio 2015\Projects\Dynamic Stack\Dynamic Stack\bin\Debug\Dynamic Stack.pdb
+c:\users\sammx\documents\visual studio 2015\Projects\Dynamic Stack\Dynamic Stack\obj\Debug\Dynamic Stack.csprojResolveAssemblyReference.cache
+c:\users\sammx\documents\visual studio 2015\Projects\Dynamic Stack\Dynamic Stack\obj\Debug\Dynamic Stack.exe
+c:\users\sammx\documents\visual studio 2015\Projects\Dynamic Stack\Dynamic Stack\obj\Debug\Dynamic Stack.pdb

@@ -1,0 +1,6 @@
+c:\users\sammx\documents\visual studio 2015\Projects\Data structures\Data structures\bin\Debug\Data structures.exe.config
+c:\users\sammx\documents\visual studio 2015\Projects\Data structures\Data structures\bin\Debug\Data structures.exe
+c:\users\sammx\documents\visual studio 2015\Projects\Data structures\Data structures\bin\Debug\Data structures.pdb
+c:\users\sammx\documents\visual studio 2015\Projects\Data structures\Data structures\obj\Debug\Data structures.csprojResolveAssemblyReference.cache
+c:\users\sammx\documents\visual studio 2015\Projects\Data structures\Data structures\obj\Debug\Data structures.exe
+c:\users\sammx\documents\visual studio 2015\Projects\Data structures\Data structures\obj\Debug\Data structures.pdb

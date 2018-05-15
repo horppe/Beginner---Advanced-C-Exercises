@@ -1,0 +1,6 @@
+c:\users\sammx\documents\visual studio 2015\Projects\Practice trees\Practice trees\bin\Debug\Practice trees.exe.config
+c:\users\sammx\documents\visual studio 2015\Projects\Practice trees\Practice trees\bin\Debug\Practice trees.exe
+c:\users\sammx\documents\visual studio 2015\Projects\Practice trees\Practice trees\bin\Debug\Practice trees.pdb
+c:\users\sammx\documents\visual studio 2015\Projects\Practice trees\Practice trees\obj\Debug\Practice trees.csprojResolveAssemblyReference.cache
+c:\users\sammx\documents\visual studio 2015\Projects\Practice trees\Practice trees\obj\Debug\Practice trees.exe
+c:\users\sammx\documents\visual studio 2015\Projects\Practice trees\Practice trees\obj\Debug\Practice trees.pdb

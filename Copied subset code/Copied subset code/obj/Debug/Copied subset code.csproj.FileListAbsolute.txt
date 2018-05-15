@@ -1,0 +1,6 @@
+c:\users\sammx\documents\visual studio 2015\Projects\Copied subset code\Copied subset code\bin\Debug\Copied subset code.exe.config
+c:\users\sammx\documents\visual studio 2015\Projects\Copied subset code\Copied subset code\bin\Debug\Copied subset code.exe
+c:\users\sammx\documents\visual studio 2015\Projects\Copied subset code\Copied subset code\bin\Debug\Copied subset code.pdb
+c:\users\sammx\documents\visual studio 2015\Projects\Copied subset code\Copied subset code\obj\Debug\Copied subset code.csprojResolveAssemblyReference.cache
+c:\users\sammx\documents\visual studio 2015\Projects\Copied subset code\Copied subset code\obj\Debug\Copied subset code.exe
+c:\users\sammx\documents\visual studio 2015\Projects\Copied subset code\Copied subset code\obj\Debug\Copied subset code.pdb

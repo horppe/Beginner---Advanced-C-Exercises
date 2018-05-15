@@ -1,0 +1,6 @@
+C:\Users\sammx\documents\visual studio 2015\Projects\Tress and Graphs Exercises\Weigthed Graph\bin\Debug\Weigthed Graph.exe.config
+C:\Users\sammx\documents\visual studio 2015\Projects\Tress and Graphs Exercises\Weigthed Graph\bin\Debug\Weigthed Graph.exe
+C:\Users\sammx\documents\visual studio 2015\Projects\Tress and Graphs Exercises\Weigthed Graph\bin\Debug\Weigthed Graph.pdb
+C:\Users\sammx\documents\visual studio 2015\Projects\Tress and Graphs Exercises\Weigthed Graph\obj\Debug\Weigthed Graph.csprojResolveAssemblyReference.cache
+C:\Users\sammx\documents\visual studio 2015\Projects\Tress and Graphs Exercises\Weigthed Graph\obj\Debug\Weigthed Graph.exe
+C:\Users\sammx\documents\visual studio 2015\Projects\Tress and Graphs Exercises\Weigthed Graph\obj\Debug\Weigthed Graph.pdb

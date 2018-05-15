@@ -1,0 +1,6 @@
+c:\users\sammx\documents\visual studio 2015\Projects\Temp Test project\Temp Test project\bin\Debug\Temp Test project.exe.config
+c:\users\sammx\documents\visual studio 2015\Projects\Temp Test project\Temp Test project\bin\Debug\Temp Test project.exe
+c:\users\sammx\documents\visual studio 2015\Projects\Temp Test project\Temp Test project\bin\Debug\Temp Test project.pdb
+c:\users\sammx\documents\visual studio 2015\Projects\Temp Test project\Temp Test project\obj\Debug\Temp Test project.csprojResolveAssemblyReference.cache
+c:\users\sammx\documents\visual studio 2015\Projects\Temp Test project\Temp Test project\obj\Debug\Temp Test project.exe
+c:\users\sammx\documents\visual studio 2015\Projects\Temp Test project\Temp Test project\obj\Debug\Temp Test project.pdb

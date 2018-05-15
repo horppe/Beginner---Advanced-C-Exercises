@@ -1,0 +1,5 @@
+c:\users\sammx\documents\visual studio 2015\Projects\Extract Email\Extract Dates\bin\Debug\Extract Dates.exe.config
+c:\users\sammx\documents\visual studio 2015\Projects\Extract Email\Extract Dates\bin\Debug\Extract Dates.exe
+c:\users\sammx\documents\visual studio 2015\Projects\Extract Email\Extract Dates\bin\Debug\Extract Dates.pdb
+c:\users\sammx\documents\visual studio 2015\Projects\Extract Email\Extract Dates\obj\Debug\Extract Dates.exe
+c:\users\sammx\documents\visual studio 2015\Projects\Extract Email\Extract Dates\obj\Debug\Extract Dates.pdb

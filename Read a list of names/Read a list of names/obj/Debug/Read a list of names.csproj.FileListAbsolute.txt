@@ -1,0 +1,6 @@
+c:\users\sammx\documents\visual studio 2015\Projects\Read a list of names\Read a list of names\bin\Debug\Read a list of names.exe.config
+c:\users\sammx\documents\visual studio 2015\Projects\Read a list of names\Read a list of names\bin\Debug\Read a list of names.exe
+c:\users\sammx\documents\visual studio 2015\Projects\Read a list of names\Read a list of names\bin\Debug\Read a list of names.pdb
+c:\users\sammx\documents\visual studio 2015\Projects\Read a list of names\Read a list of names\obj\Debug\Read a list of names.csprojResolveAssemblyReference.cache
+c:\users\sammx\documents\visual studio 2015\Projects\Read a list of names\Read a list of names\obj\Debug\Read a list of names.exe
+c:\users\sammx\documents\visual studio 2015\Projects\Read a list of names\Read a list of names\obj\Debug\Read a list of names.pdb

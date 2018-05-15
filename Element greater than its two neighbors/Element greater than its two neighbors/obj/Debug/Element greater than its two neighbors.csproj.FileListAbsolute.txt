@@ -1,0 +1,6 @@
+c:\users\sammx\documents\visual studio 2015\Projects\Element greater than its two neighbors\Element greater than its two neighbors\bin\Debug\Element greater than its two neighbors.exe.config
+c:\users\sammx\documents\visual studio 2015\Projects\Element greater than its two neighbors\Element greater than its two neighbors\bin\Debug\Element greater than its two neighbors.exe
+c:\users\sammx\documents\visual studio 2015\Projects\Element greater than its two neighbors\Element greater than its two neighbors\bin\Debug\Element greater than its two neighbors.pdb
+c:\users\sammx\documents\visual studio 2015\Projects\Element greater than its two neighbors\Element greater than its two neighbors\obj\Debug\Element greater than its two neighbors.csprojResolveAssemblyReference.cache
+c:\users\sammx\documents\visual studio 2015\Projects\Element greater than its two neighbors\Element greater than its two neighbors\obj\Debug\Element greater than its two neighbors.exe
+c:\users\sammx\documents\visual studio 2015\Projects\Element greater than its two neighbors\Element greater than its two neighbors\obj\Debug\Element greater than its two neighbors.pdb

@@ -1,0 +1,6 @@
+c:\users\sammx\documents\visual studio 2015\Projects\Most frequently occuring Elements\Most frequently occuring Elements\bin\Debug\Most frequently occuring Elements.exe.config
+c:\users\sammx\documents\visual studio 2015\Projects\Most frequently occuring Elements\Most frequently occuring Elements\bin\Debug\Most frequently occuring Elements.exe
+c:\users\sammx\documents\visual studio 2015\Projects\Most frequently occuring Elements\Most frequently occuring Elements\bin\Debug\Most frequently occuring Elements.pdb
+c:\users\sammx\documents\visual studio 2015\Projects\Most frequently occuring Elements\Most frequently occuring Elements\obj\Debug\Most frequently occuring Elements.csprojResolveAssemblyReference.cache
+c:\users\sammx\documents\visual studio 2015\Projects\Most frequently occuring Elements\Most frequently occuring Elements\obj\Debug\Most frequently occuring Elements.exe
+c:\users\sammx\documents\visual studio 2015\Projects\Most frequently occuring Elements\Most frequently occuring Elements\obj\Debug\Most frequently occuring Elements.pdb

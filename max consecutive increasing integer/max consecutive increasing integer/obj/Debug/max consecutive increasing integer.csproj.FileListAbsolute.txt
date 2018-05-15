@@ -1,0 +1,6 @@
+c:\users\sammx\documents\visual studio 2015\Projects\max consecutive increasing integer\max consecutive increasing integer\bin\Debug\max consecutive increasing integer.exe.config
+c:\users\sammx\documents\visual studio 2015\Projects\max consecutive increasing integer\max consecutive increasing integer\bin\Debug\max consecutive increasing integer.exe
+c:\users\sammx\documents\visual studio 2015\Projects\max consecutive increasing integer\max consecutive increasing integer\bin\Debug\max consecutive increasing integer.pdb
+c:\users\sammx\documents\visual studio 2015\Projects\max consecutive increasing integer\max consecutive increasing integer\obj\Debug\max consecutive increasing integer.csprojResolveAssemblyReference.cache
+c:\users\sammx\documents\visual studio 2015\Projects\max consecutive increasing integer\max consecutive increasing integer\obj\Debug\max consecutive increasing integer.exe
+c:\users\sammx\documents\visual studio 2015\Projects\max consecutive increasing integer\max consecutive increasing integer\obj\Debug\max consecutive increasing integer.pdb

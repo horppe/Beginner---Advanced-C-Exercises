@@ -1,0 +1,6 @@
+c:\users\sammx\documents\visual studio 2015\Projects\Squarel Matrix 1\Squarel Matrix 1\bin\Debug\Squarel Matrix 1.exe.config
+c:\users\sammx\documents\visual studio 2015\Projects\Squarel Matrix 1\Squarel Matrix 1\bin\Debug\Squarel Matrix 1.exe
+c:\users\sammx\documents\visual studio 2015\Projects\Squarel Matrix 1\Squarel Matrix 1\bin\Debug\Squarel Matrix 1.pdb
+c:\users\sammx\documents\visual studio 2015\Projects\Squarel Matrix 1\Squarel Matrix 1\obj\Debug\Squarel Matrix 1.csprojResolveAssemblyReference.cache
+c:\users\sammx\documents\visual studio 2015\Projects\Squarel Matrix 1\Squarel Matrix 1\obj\Debug\Squarel Matrix 1.exe
+c:\users\sammx\documents\visual studio 2015\Projects\Squarel Matrix 1\Squarel Matrix 1\obj\Debug\Squarel Matrix 1.pdb

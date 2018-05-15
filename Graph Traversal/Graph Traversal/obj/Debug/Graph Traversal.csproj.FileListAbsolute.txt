@@ -1,0 +1,6 @@
+c:\users\sammx\documents\visual studio 2015\Projects\Graph Traversal\Graph Traversal\bin\Debug\Graph Traversal.exe.config
+c:\users\sammx\documents\visual studio 2015\Projects\Graph Traversal\Graph Traversal\bin\Debug\Graph Traversal.exe
+c:\users\sammx\documents\visual studio 2015\Projects\Graph Traversal\Graph Traversal\bin\Debug\Graph Traversal.pdb
+c:\users\sammx\documents\visual studio 2015\Projects\Graph Traversal\Graph Traversal\obj\Debug\Graph Traversal.csprojResolveAssemblyReference.cache
+c:\users\sammx\documents\visual studio 2015\Projects\Graph Traversal\Graph Traversal\obj\Debug\Graph Traversal.exe
+c:\users\sammx\documents\visual studio 2015\Projects\Graph Traversal\Graph Traversal\obj\Debug\Graph Traversal.pdb

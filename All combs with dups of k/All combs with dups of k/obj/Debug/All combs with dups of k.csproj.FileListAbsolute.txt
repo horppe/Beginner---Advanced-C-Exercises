@@ -1,0 +1,6 @@
+c:\users\sammx\documents\visual studio 2015\Projects\All combs with dups of k\All combs with dups of k\bin\Debug\All combs with dups of k.exe.config
+C:\Users\sammx\documents\visual studio 2015\Projects\All combs with dups of k\All combs with dups of k\bin\Debug\All combs with dups of k.exe
+C:\Users\sammx\documents\visual studio 2015\Projects\All combs with dups of k\All combs with dups of k\bin\Debug\All combs with dups of k.pdb
+C:\Users\sammx\documents\visual studio 2015\Projects\All combs with dups of k\All combs with dups of k\obj\Debug\All combs with dups of k.csprojResolveAssemblyReference.cache
+C:\Users\sammx\documents\visual studio 2015\Projects\All combs with dups of k\All combs with dups of k\obj\Debug\All combs with dups of k.exe
+C:\Users\sammx\documents\visual studio 2015\Projects\All combs with dups of k\All combs with dups of k\obj\Debug\All combs with dups of k.pdb

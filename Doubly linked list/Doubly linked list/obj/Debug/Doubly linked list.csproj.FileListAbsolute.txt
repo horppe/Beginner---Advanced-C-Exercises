@@ -1,0 +1,6 @@
+c:\users\sammx\documents\visual studio 2015\Projects\Doubly linked list\Doubly linked list\bin\Debug\Doubly linked list.exe.config
+c:\users\sammx\documents\visual studio 2015\Projects\Doubly linked list\Doubly linked list\bin\Debug\Doubly linked list.exe
+c:\users\sammx\documents\visual studio 2015\Projects\Doubly linked list\Doubly linked list\bin\Debug\Doubly linked list.pdb
+c:\users\sammx\documents\visual studio 2015\Projects\Doubly linked list\Doubly linked list\obj\Debug\Doubly linked list.csprojResolveAssemblyReference.cache
+c:\users\sammx\documents\visual studio 2015\Projects\Doubly linked list\Doubly linked list\obj\Debug\Doubly linked list.exe
+c:\users\sammx\documents\visual studio 2015\Projects\Doubly linked list\Doubly linked list\obj\Debug\Doubly linked list.pdb

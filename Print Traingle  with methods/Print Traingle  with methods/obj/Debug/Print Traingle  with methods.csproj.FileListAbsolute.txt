@@ -1,0 +1,6 @@
+c:\users\sammx\documents\visual studio 2015\Projects\Print Traingle  with methods\Print Traingle  with methods\bin\Debug\Print Traingle  with methods.exe.config
+c:\users\sammx\documents\visual studio 2015\Projects\Print Traingle  with methods\Print Traingle  with methods\obj\Debug\Print Traingle  with methods.exe
+c:\users\sammx\documents\visual studio 2015\Projects\Print Traingle  with methods\Print Traingle  with methods\obj\Debug\Print Traingle  with methods.pdb
+c:\users\sammx\documents\visual studio 2015\Projects\Print Traingle  with methods\Print Traingle  with methods\obj\Debug\Print Traingle  with methods.csprojResolveAssemblyReference.cache
+c:\users\sammx\documents\visual studio 2015\Projects\Print Traingle  with methods\Print Traingle  with methods\bin\Debug\Print Traingle  with methods.exe
+c:\users\sammx\documents\visual studio 2015\Projects\Print Traingle  with methods\Print Traingle  with methods\bin\Debug\Print Traingle  with methods.pdb

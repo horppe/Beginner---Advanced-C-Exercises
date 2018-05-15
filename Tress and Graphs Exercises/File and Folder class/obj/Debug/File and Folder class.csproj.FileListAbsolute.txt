@@ -1,0 +1,6 @@
+C:\Users\sammx\documents\visual studio 2015\Projects\Tress and Graphs Exercises\File and Folder class\bin\Debug\File and Folder class.exe.config
+C:\Users\sammx\documents\visual studio 2015\Projects\Tress and Graphs Exercises\File and Folder class\bin\Debug\File and Folder class.exe
+C:\Users\sammx\documents\visual studio 2015\Projects\Tress and Graphs Exercises\File and Folder class\bin\Debug\File and Folder class.pdb
+C:\Users\sammx\documents\visual studio 2015\Projects\Tress and Graphs Exercises\File and Folder class\obj\Debug\File and Folder class.csprojResolveAssemblyReference.cache
+C:\Users\sammx\documents\visual studio 2015\Projects\Tress and Graphs Exercises\File and Folder class\obj\Debug\File and Folder class.exe
+C:\Users\sammx\documents\visual studio 2015\Projects\Tress and Graphs Exercises\File and Folder class\obj\Debug\File and Folder class.pdb

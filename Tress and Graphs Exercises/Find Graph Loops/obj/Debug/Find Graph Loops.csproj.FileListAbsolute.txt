@@ -1,0 +1,6 @@
+C:\Users\sammx\documents\visual studio 2015\Projects\Tress and Graphs Exercises\Find Graph Loops\bin\Debug\Find Graph Loops.exe.config
+C:\Users\sammx\documents\visual studio 2015\Projects\Tress and Graphs Exercises\Find Graph Loops\bin\Debug\Find Graph Loops.exe
+C:\Users\sammx\documents\visual studio 2015\Projects\Tress and Graphs Exercises\Find Graph Loops\bin\Debug\Find Graph Loops.pdb
+C:\Users\sammx\documents\visual studio 2015\Projects\Tress and Graphs Exercises\Find Graph Loops\obj\Debug\Find Graph Loops.csprojResolveAssemblyReference.cache
+C:\Users\sammx\documents\visual studio 2015\Projects\Tress and Graphs Exercises\Find Graph Loops\obj\Debug\Find Graph Loops.exe
+C:\Users\sammx\documents\visual studio 2015\Projects\Tress and Graphs Exercises\Find Graph Loops\obj\Debug\Find Graph Loops.pdb

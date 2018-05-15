@@ -1,0 +1,6 @@
+c:\users\sammx\documents\visual studio 2015\Projects\Bin to Dec with Horner\Bin to Dec with Horner\bin\Debug\Bin to Dec with Horner.exe.config
+c:\users\sammx\documents\visual studio 2015\Projects\Bin to Dec with Horner\Bin to Dec with Horner\bin\Debug\Bin to Dec with Horner.exe
+c:\users\sammx\documents\visual studio 2015\Projects\Bin to Dec with Horner\Bin to Dec with Horner\bin\Debug\Bin to Dec with Horner.pdb
+c:\users\sammx\documents\visual studio 2015\Projects\Bin to Dec with Horner\Bin to Dec with Horner\obj\Debug\Bin to Dec with Horner.csprojResolveAssemblyReference.cache
+c:\users\sammx\documents\visual studio 2015\Projects\Bin to Dec with Horner\Bin to Dec with Horner\obj\Debug\Bin to Dec with Horner.exe
+c:\users\sammx\documents\visual studio 2015\Projects\Bin to Dec with Horner\Bin to Dec with Horner\obj\Debug\Bin to Dec with Horner.pdb

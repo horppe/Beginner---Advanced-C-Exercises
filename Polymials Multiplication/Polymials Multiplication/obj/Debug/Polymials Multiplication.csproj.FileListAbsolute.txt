@@ -1,0 +1,6 @@
+c:\users\sammx\documents\visual studio 2015\Projects\Polymials Multiplication\Polymials Multiplication\bin\Debug\Polymials Multiplication.exe.config
+c:\users\sammx\documents\visual studio 2015\Projects\Polymials Multiplication\Polymials Multiplication\bin\Debug\Polymials Multiplication.exe
+c:\users\sammx\documents\visual studio 2015\Projects\Polymials Multiplication\Polymials Multiplication\bin\Debug\Polymials Multiplication.pdb
+c:\users\sammx\documents\visual studio 2015\Projects\Polymials Multiplication\Polymials Multiplication\obj\Debug\Polymials Multiplication.csprojResolveAssemblyReference.cache
+c:\users\sammx\documents\visual studio 2015\Projects\Polymials Multiplication\Polymials Multiplication\obj\Debug\Polymials Multiplication.exe
+c:\users\sammx\documents\visual studio 2015\Projects\Polymials Multiplication\Polymials Multiplication\obj\Debug\Polymials Multiplication.pdb

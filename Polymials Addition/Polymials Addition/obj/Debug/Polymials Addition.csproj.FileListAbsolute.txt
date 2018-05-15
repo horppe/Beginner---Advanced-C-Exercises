@@ -1,0 +1,6 @@
+c:\users\sammx\documents\visual studio 2015\Projects\Polymials Addition\Polymials Addition\bin\Debug\Polymials Addition.exe.config
+C:\Users\sammx\documents\visual studio 2015\Projects\Polymials Addition\Polymials Addition\bin\Debug\Polymials Addition.exe
+C:\Users\sammx\documents\visual studio 2015\Projects\Polymials Addition\Polymials Addition\bin\Debug\Polymials Addition.pdb
+C:\Users\sammx\documents\visual studio 2015\Projects\Polymials Addition\Polymials Addition\obj\Debug\Polymials Addition.csprojResolveAssemblyReference.cache
+C:\Users\sammx\documents\visual studio 2015\Projects\Polymials Addition\Polymials Addition\obj\Debug\Polymials Addition.exe
+C:\Users\sammx\documents\visual studio 2015\Projects\Polymials Addition\Polymials Addition\obj\Debug\Polymials Addition.pdb

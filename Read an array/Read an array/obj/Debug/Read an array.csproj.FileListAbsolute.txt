@@ -1,0 +1,6 @@
+c:\users\sammx\documents\visual studio 2015\Projects\Read an array\Read an array\bin\Debug\Read an array.exe.config
+c:\users\sammx\documents\visual studio 2015\Projects\Read an array\Read an array\bin\Debug\Read an array.exe
+c:\users\sammx\documents\visual studio 2015\Projects\Read an array\Read an array\bin\Debug\Read an array.pdb
+c:\users\sammx\documents\visual studio 2015\Projects\Read an array\Read an array\obj\Debug\Read an array.csprojResolveAssemblyReference.cache
+c:\users\sammx\documents\visual studio 2015\Projects\Read an array\Read an array\obj\Debug\Read an array.exe
+c:\users\sammx\documents\visual studio 2015\Projects\Read an array\Read an array\obj\Debug\Read an array.pdb

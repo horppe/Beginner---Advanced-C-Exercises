@@ -1,0 +1,8 @@
+c:\users\sammx\documents\visual studio 2015\Projects\F Sharp\F Sharp\bin\Debug\F_Sharp.exe.config
+c:\users\sammx\documents\visual studio 2015\Projects\F Sharp\F Sharp\bin\Debug\F_Sharp.XML
+c:\users\sammx\documents\visual studio 2015\Projects\F Sharp\F Sharp\bin\Debug\F_Sharp.exe
+c:\users\sammx\documents\visual studio 2015\Projects\F Sharp\F Sharp\bin\Debug\F_Sharp.pdb
+c:\users\sammx\documents\visual studio 2015\Projects\F Sharp\F Sharp\bin\Debug\FSharp.Core.dll
+c:\users\sammx\documents\visual studio 2015\Projects\F Sharp\F Sharp\bin\Debug\FSharp.Core.xml
+c:\users\sammx\documents\visual studio 2015\Projects\F Sharp\F Sharp\obj\Debug\F_Sharp.exe
+c:\users\sammx\documents\visual studio 2015\Projects\F Sharp\F Sharp\obj\Debug\F_Sharp.pdb

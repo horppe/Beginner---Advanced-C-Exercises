@@ -1,0 +1,5 @@
+c:\users\sammx\documents\visual studio 2015\Projects\Regex parse url\Regex parse url\bin\Debug\Regex parse url.exe.config
+c:\users\sammx\documents\visual studio 2015\Projects\Regex parse url\Regex parse url\bin\Debug\Regex parse url.exe
+c:\users\sammx\documents\visual studio 2015\Projects\Regex parse url\Regex parse url\bin\Debug\Regex parse url.pdb
+c:\users\sammx\documents\visual studio 2015\Projects\Regex parse url\Regex parse url\obj\Debug\Regex parse url.exe
+c:\users\sammx\documents\visual studio 2015\Projects\Regex parse url\Regex parse url\obj\Debug\Regex parse url.pdb

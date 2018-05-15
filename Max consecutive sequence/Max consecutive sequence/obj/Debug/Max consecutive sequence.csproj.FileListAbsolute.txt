@@ -1,0 +1,6 @@
+c:\users\sammx\documents\visual studio 2015\Projects\Max consecutive sequence\Max consecutive sequence\bin\Debug\Max consecutive sequence.exe.config
+c:\users\sammx\documents\visual studio 2015\Projects\Max consecutive sequence\Max consecutive sequence\bin\Debug\Max consecutive sequence.exe
+c:\users\sammx\documents\visual studio 2015\Projects\Max consecutive sequence\Max consecutive sequence\bin\Debug\Max consecutive sequence.pdb
+c:\users\sammx\documents\visual studio 2015\Projects\Max consecutive sequence\Max consecutive sequence\obj\Debug\Max consecutive sequence.csprojResolveAssemblyReference.cache
+c:\users\sammx\documents\visual studio 2015\Projects\Max consecutive sequence\Max consecutive sequence\obj\Debug\Max consecutive sequence.exe
+c:\users\sammx\documents\visual studio 2015\Projects\Max consecutive sequence\Max consecutive sequence\obj\Debug\Max consecutive sequence.pdb

@@ -1,0 +1,6 @@
+c:\users\sammx\documents\visual studio 2015\Projects\Reusing Constructors\Reusing Constructors\bin\Debug\Reusing Constructors.exe.config
+c:\users\sammx\documents\visual studio 2015\Projects\Reusing Constructors\Reusing Constructors\bin\Debug\Reusing Constructors.exe
+c:\users\sammx\documents\visual studio 2015\Projects\Reusing Constructors\Reusing Constructors\bin\Debug\Reusing Constructors.pdb
+c:\users\sammx\documents\visual studio 2015\Projects\Reusing Constructors\Reusing Constructors\obj\Debug\Reusing Constructors.csprojResolveAssemblyReference.cache
+c:\users\sammx\documents\visual studio 2015\Projects\Reusing Constructors\Reusing Constructors\obj\Debug\Reusing Constructors.exe
+c:\users\sammx\documents\visual studio 2015\Projects\Reusing Constructors\Reusing Constructors\obj\Debug\Reusing Constructors.pdb

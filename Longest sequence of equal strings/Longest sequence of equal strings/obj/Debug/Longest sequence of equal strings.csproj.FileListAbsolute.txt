@@ -1,0 +1,6 @@
+c:\users\sammx\documents\visual studio 2015\Projects\Longest sequence of equal strings\Longest sequence of equal strings\bin\Debug\Longest sequence of equal strings.exe.config
+c:\users\sammx\documents\visual studio 2015\Projects\Longest sequence of equal strings\Longest sequence of equal strings\bin\Debug\Longest sequence of equal strings.exe
+c:\users\sammx\documents\visual studio 2015\Projects\Longest sequence of equal strings\Longest sequence of equal strings\bin\Debug\Longest sequence of equal strings.pdb
+c:\users\sammx\documents\visual studio 2015\Projects\Longest sequence of equal strings\Longest sequence of equal strings\obj\Debug\Longest sequence of equal strings.csprojResolveAssemblyReference.cache
+c:\users\sammx\documents\visual studio 2015\Projects\Longest sequence of equal strings\Longest sequence of equal strings\obj\Debug\Longest sequence of equal strings.exe
+c:\users\sammx\documents\visual studio 2015\Projects\Longest sequence of equal strings\Longest sequence of equal strings\obj\Debug\Longest sequence of equal strings.pdb

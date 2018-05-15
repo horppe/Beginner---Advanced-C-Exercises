@@ -1,0 +1,6 @@
+c:\users\sammx\documents\visual studio 2015\Projects\Extract Palindromes\Extract Palindromes\bin\Debug\Extract Palindromes.exe.config
+c:\users\sammx\documents\visual studio 2015\Projects\Extract Palindromes\Extract Palindromes\bin\Debug\Extract Palindromes.exe
+c:\users\sammx\documents\visual studio 2015\Projects\Extract Palindromes\Extract Palindromes\bin\Debug\Extract Palindromes.pdb
+c:\users\sammx\documents\visual studio 2015\Projects\Extract Palindromes\Extract Palindromes\obj\Debug\Extract Palindromes.csprojResolveAssemblyReference.cache
+c:\users\sammx\documents\visual studio 2015\Projects\Extract Palindromes\Extract Palindromes\obj\Debug\Extract Palindromes.exe
+c:\users\sammx\documents\visual studio 2015\Projects\Extract Palindromes\Extract Palindromes\obj\Debug\Extract Palindromes.pdb

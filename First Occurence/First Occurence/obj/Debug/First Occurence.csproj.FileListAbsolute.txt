@@ -1,0 +1,6 @@
+c:\users\sammx\documents\visual studio 2015\Projects\First Occurence\First Occurence\bin\Debug\First Occurence.exe.config
+c:\users\sammx\documents\visual studio 2015\Projects\First Occurence\First Occurence\bin\Debug\First Occurence.exe
+c:\users\sammx\documents\visual studio 2015\Projects\First Occurence\First Occurence\bin\Debug\First Occurence.pdb
+c:\users\sammx\documents\visual studio 2015\Projects\First Occurence\First Occurence\obj\Debug\First Occurence.csprojResolveAssemblyReference.cache
+c:\users\sammx\documents\visual studio 2015\Projects\First Occurence\First Occurence\obj\Debug\First Occurence.exe
+c:\users\sammx\documents\visual studio 2015\Projects\First Occurence\First Occurence\obj\Debug\First Occurence.pdb

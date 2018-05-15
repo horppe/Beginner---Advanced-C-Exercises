@@ -1,0 +1,6 @@
+C:\Users\sammx\documents\visual studio 2015\Projects\Tress and Graphs Exercises\Graph Exercises\bin\Debug\Graph Exercises.exe.config
+C:\Users\sammx\documents\visual studio 2015\Projects\Tress and Graphs Exercises\Graph Exercises\bin\Debug\Graph Exercises.exe
+C:\Users\sammx\documents\visual studio 2015\Projects\Tress and Graphs Exercises\Graph Exercises\bin\Debug\Graph Exercises.pdb
+C:\Users\sammx\documents\visual studio 2015\Projects\Tress and Graphs Exercises\Graph Exercises\obj\Debug\Graph Exercises.csprojResolveAssemblyReference.cache
+C:\Users\sammx\documents\visual studio 2015\Projects\Tress and Graphs Exercises\Graph Exercises\obj\Debug\Graph Exercises.exe
+C:\Users\sammx\documents\visual studio 2015\Projects\Tress and Graphs Exercises\Graph Exercises\obj\Debug\Graph Exercises.pdb

@@ -1,0 +1,6 @@
+c:\users\sammx\documents\visual studio 2015\Projects\Majorant\Majorant\bin\Debug\Majorant.exe.config
+c:\users\sammx\documents\visual studio 2015\Projects\Majorant\Majorant\bin\Debug\Majorant.exe
+c:\users\sammx\documents\visual studio 2015\Projects\Majorant\Majorant\bin\Debug\Majorant.pdb
+c:\users\sammx\documents\visual studio 2015\Projects\Majorant\Majorant\obj\Debug\Majorant.csprojResolveAssemblyReference.cache
+c:\users\sammx\documents\visual studio 2015\Projects\Majorant\Majorant\obj\Debug\Majorant.exe
+c:\users\sammx\documents\visual studio 2015\Projects\Majorant\Majorant\obj\Debug\Majorant.pdb

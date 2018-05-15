@@ -1,0 +1,6 @@
+c:\users\sammx\documents\visual studio 2015\Projects\Read a file\Read a file\bin\Debug\Read a file.exe.config
+c:\users\sammx\documents\visual studio 2015\Projects\Read a file\Read a file\bin\Debug\Read a file.exe
+c:\users\sammx\documents\visual studio 2015\Projects\Read a file\Read a file\bin\Debug\Read a file.pdb
+c:\users\sammx\documents\visual studio 2015\Projects\Read a file\Read a file\obj\Debug\Read a file.csprojResolveAssemblyReference.cache
+c:\users\sammx\documents\visual studio 2015\Projects\Read a file\Read a file\obj\Debug\Read a file.exe
+c:\users\sammx\documents\visual studio 2015\Projects\Read a file\Read a file\obj\Debug\Read a file.pdb

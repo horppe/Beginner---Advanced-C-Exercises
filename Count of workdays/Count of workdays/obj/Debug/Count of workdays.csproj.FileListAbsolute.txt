@@ -1,0 +1,6 @@
+c:\users\sammx\documents\visual studio 2015\Projects\Count of workdays\Count of workdays\bin\Debug\Count of workdays.exe.config
+c:\users\sammx\documents\visual studio 2015\Projects\Count of workdays\Count of workdays\bin\Debug\Count of workdays.exe
+c:\users\sammx\documents\visual studio 2015\Projects\Count of workdays\Count of workdays\bin\Debug\Count of workdays.pdb
+c:\users\sammx\documents\visual studio 2015\Projects\Count of workdays\Count of workdays\obj\Debug\Count of workdays.csprojResolveAssemblyReference.cache
+c:\users\sammx\documents\visual studio 2015\Projects\Count of workdays\Count of workdays\obj\Debug\Count of workdays.exe
+c:\users\sammx\documents\visual studio 2015\Projects\Count of workdays\Count of workdays\obj\Debug\Count of workdays.pdb

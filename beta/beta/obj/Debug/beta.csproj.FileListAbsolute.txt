@@ -1,0 +1,6 @@
+c:\users\sammx\documents\visual studio 2015\Projects\beta\beta\bin\Debug\beta.exe.config
+c:\users\sammx\documents\visual studio 2015\Projects\beta\beta\bin\Debug\beta.exe
+c:\users\sammx\documents\visual studio 2015\Projects\beta\beta\bin\Debug\beta.pdb
+c:\users\sammx\documents\visual studio 2015\Projects\beta\beta\obj\Debug\beta.csprojResolveAssemblyReference.cache
+c:\users\sammx\documents\visual studio 2015\Projects\beta\beta\obj\Debug\beta.exe
+c:\users\sammx\documents\visual studio 2015\Projects\beta\beta\obj\Debug\beta.pdb

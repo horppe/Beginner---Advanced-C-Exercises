@@ -1,0 +1,6 @@
+c:\users\sammx\documents\visual studio 2015\Projects\Starting Methods\Starting Methods\bin\Debug\Starting Methods.exe.config
+c:\users\sammx\documents\visual studio 2015\Projects\Starting Methods\Starting Methods\obj\Debug\Starting Methods.csprojResolveAssemblyReference.cache
+c:\users\sammx\documents\visual studio 2015\Projects\Starting Methods\Starting Methods\bin\Debug\Starting Methods.exe
+c:\users\sammx\documents\visual studio 2015\Projects\Starting Methods\Starting Methods\bin\Debug\Starting Methods.pdb
+c:\users\sammx\documents\visual studio 2015\Projects\Starting Methods\Starting Methods\obj\Debug\Starting Methods.exe
+c:\users\sammx\documents\visual studio 2015\Projects\Starting Methods\Starting Methods\obj\Debug\Starting Methods.pdb

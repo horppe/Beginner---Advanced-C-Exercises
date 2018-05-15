@@ -1,0 +1,6 @@
+c:\users\sammx\documents\visual studio 2015\Projects\Parse dictionary\Parse dictionary\bin\Debug\Parse dictionary.exe.config
+c:\users\sammx\documents\visual studio 2015\Projects\Parse dictionary\Parse dictionary\bin\Debug\Parse dictionary.exe
+c:\users\sammx\documents\visual studio 2015\Projects\Parse dictionary\Parse dictionary\bin\Debug\Parse dictionary.pdb
+c:\users\sammx\documents\visual studio 2015\Projects\Parse dictionary\Parse dictionary\obj\Debug\Parse dictionary.csprojResolveAssemblyReference.cache
+c:\users\sammx\documents\visual studio 2015\Projects\Parse dictionary\Parse dictionary\obj\Debug\Parse dictionary.exe
+c:\users\sammx\documents\visual studio 2015\Projects\Parse dictionary\Parse dictionary\obj\Debug\Parse dictionary.pdb
