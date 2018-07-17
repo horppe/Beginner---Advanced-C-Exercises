@@ -1,6 +1,0 @@
-c:\users\sammx\documents\visual studio 2015\Projects\WatchKitApp1\WatchKitApp1\WatchKitApp1.WatchKitApp\obj\iPhoneSimulator\Debug\ibtool\_BundleResourceWithLogicalName.items
-c:\users\sammx\documents\visual studio 2015\Projects\WatchKitApp1\WatchKitApp1\WatchKitApp1.WatchKitApp\obj\iPhoneSimulator\Debug\actool\_PartialAppManifest.items
-c:\users\sammx\documents\visual studio 2015\Projects\WatchKitApp1\WatchKitApp1\WatchKitApp1.WatchKitApp\obj\iPhoneSimulator\Debug\actool\_BundleResourceWithLogicalName.items
-c:\users\sammx\documents\visual studio 2015\Projects\WatchKitApp1\WatchKitApp1\WatchKitApp1.WatchKitApp\obj\iPhoneSimulator\Debug\optimized\
-c:\users\sammx\documents\visual studio 2015\Projects\WatchKitApp1\WatchKitApp1\WatchKitApp1.WatchKitApp\obj\iPhoneSimulator\Debug\WatchKitApp1.WatchKitApp.dll.mdb
-c:\users\sammx\documents\visual studio 2015\Projects\WatchKitApp1\WatchKitApp1\WatchKitApp1.WatchKitApp\bin\iPhoneSimulator\Debug\WatchKitApp1.WatchKitApp.dll.mdb

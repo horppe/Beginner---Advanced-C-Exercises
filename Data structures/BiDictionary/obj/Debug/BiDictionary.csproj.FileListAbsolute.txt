@@ -1,6 +1,0 @@
-C:\Users\sammx\documents\visual studio 2015\Projects\Data structures\BiDictionary\bin\Debug\BiDictionary.exe.config
-C:\Users\sammx\documents\visual studio 2015\Projects\Data structures\BiDictionary\obj\Debug\BiDictionary.csprojResolveAssemblyReference.cache
-C:\Users\sammx\documents\visual studio 2015\Projects\Data structures\BiDictionary\bin\Debug\BiDictionary.exe
-C:\Users\sammx\documents\visual studio 2015\Projects\Data structures\BiDictionary\bin\Debug\BiDictionary.pdb
-C:\Users\sammx\documents\visual studio 2015\Projects\Data structures\BiDictionary\obj\Debug\BiDictionary.exe
-C:\Users\sammx\documents\visual studio 2015\Projects\Data structures\BiDictionary\obj\Debug\BiDictionary.pdb

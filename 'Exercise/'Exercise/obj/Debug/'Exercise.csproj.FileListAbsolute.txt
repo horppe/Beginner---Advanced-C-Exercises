@@ -1,6 +1,0 @@
-c:\users\sammx\documents\visual studio 2015\Projects\'Exercise\'Exercise\bin\Debug\'Exercise.exe.config
-c:\users\sammx\documents\visual studio 2015\Projects\'Exercise\'Exercise\bin\Debug\'Exercise.exe
-c:\users\sammx\documents\visual studio 2015\Projects\'Exercise\'Exercise\bin\Debug\'Exercise.pdb
-c:\users\sammx\documents\visual studio 2015\Projects\'Exercise\'Exercise\obj\Debug\'Exercise.csprojResolveAssemblyReference.cache
-c:\users\sammx\documents\visual studio 2015\Projects\'Exercise\'Exercise\obj\Debug\'Exercise.exe
-c:\users\sammx\documents\visual studio 2015\Projects\'Exercise\'Exercise\obj\Debug\'Exercise.pdb

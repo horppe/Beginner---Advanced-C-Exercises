@@ -21,6 +21,9 @@ namespace FileParseException
                     int parse;
                     while (!stream.EndOfStream)
                     {
+                        // If the line recieved from the stream 
+                        // is not Parsable
+                     
                         if (!int.TryParse(stream.ReadLine(), out parse))
                         {
                             throw new FileParseException(path, line);

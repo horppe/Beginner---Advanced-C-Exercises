@@ -1,6 +1,0 @@
-C:\Users\sammx\documents\visual studio 2015\Projects\Data structures\Sorting a Phonebook\bin\Debug\Sorting a Phonebook.exe.config
-C:\Users\sammx\documents\visual studio 2015\Projects\Data structures\Sorting a Phonebook\bin\Debug\Sorting a Phonebook.exe
-C:\Users\sammx\documents\visual studio 2015\Projects\Data structures\Sorting a Phonebook\bin\Debug\Sorting a Phonebook.pdb
-C:\Users\sammx\documents\visual studio 2015\Projects\Data structures\Sorting a Phonebook\obj\Debug\Sorting a Phonebook.csprojResolveAssemblyReference.cache
-C:\Users\sammx\documents\visual studio 2015\Projects\Data structures\Sorting a Phonebook\obj\Debug\Sorting a Phonebook.exe
-C:\Users\sammx\documents\visual studio 2015\Projects\Data structures\Sorting a Phonebook\obj\Debug\Sorting a Phonebook.pdb

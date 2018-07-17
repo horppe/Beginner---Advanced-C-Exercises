@@ -1,6 +1,0 @@
-c:\users\sammx\documents\visual studio 2015\Projects\unknown\unknown\bin\Debug\unknown.exe.config
-c:\users\sammx\documents\visual studio 2015\Projects\unknown\unknown\bin\Debug\unknown.exe
-c:\users\sammx\documents\visual studio 2015\Projects\unknown\unknown\bin\Debug\unknown.pdb
-c:\users\sammx\documents\visual studio 2015\Projects\unknown\unknown\obj\Debug\unknown.csprojResolveAssemblyReference.cache
-c:\users\sammx\documents\visual studio 2015\Projects\unknown\unknown\obj\Debug\unknown.exe
-c:\users\sammx\documents\visual studio 2015\Projects\unknown\unknown\obj\Debug\unknown.pdb

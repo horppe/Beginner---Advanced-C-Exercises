@@ -1,6 +1,0 @@
-c:\users\sammx\documents\visual studio 2015\Projects\Fib Test\Fib Test\bin\Debug\Fib Test.exe.config
-c:\users\sammx\documents\visual studio 2015\Projects\Fib Test\Fib Test\bin\Debug\Fib Test.exe
-c:\users\sammx\documents\visual studio 2015\Projects\Fib Test\Fib Test\bin\Debug\Fib Test.pdb
-c:\users\sammx\documents\visual studio 2015\Projects\Fib Test\Fib Test\obj\Debug\Fib Test.csprojResolveAssemblyReference.cache
-c:\users\sammx\documents\visual studio 2015\Projects\Fib Test\Fib Test\obj\Debug\Fib Test.exe
-c:\users\sammx\documents\visual studio 2015\Projects\Fib Test\Fib Test\obj\Debug\Fib Test.pdb
