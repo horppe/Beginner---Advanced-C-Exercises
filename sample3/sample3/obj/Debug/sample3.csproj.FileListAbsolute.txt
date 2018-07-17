@@ -1,6 +1,0 @@
-c:\users\sammx\documents\visual studio 2015\Projects\sample3\sample3\bin\Debug\sample3.exe.config
-c:\users\sammx\documents\visual studio 2015\Projects\sample3\sample3\bin\Debug\sample3.exe
-c:\users\sammx\documents\visual studio 2015\Projects\sample3\sample3\bin\Debug\sample3.pdb
-c:\users\sammx\documents\visual studio 2015\Projects\sample3\sample3\obj\Debug\sample3.csprojResolveAssemblyReference.cache
-c:\users\sammx\documents\visual studio 2015\Projects\sample3\sample3\obj\Debug\sample3.exe
-c:\users\sammx\documents\visual studio 2015\Projects\sample3\sample3\obj\Debug\sample3.pdb

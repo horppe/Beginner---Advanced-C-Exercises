@@ -1,6 +1,0 @@
-c:\users\sammx\documents\visual studio 2015\Projects\Sam\Sam\bin\Debug\Sam.exe.config
-c:\users\sammx\documents\visual studio 2015\Projects\Sam\Sam\obj\Debug\Sam.csprojResolveAssemblyReference.cache
-c:\users\sammx\documents\visual studio 2015\Projects\Sam\Sam\bin\Debug\Sam.exe
-c:\users\sammx\documents\visual studio 2015\Projects\Sam\Sam\bin\Debug\Sam.pdb
-c:\users\sammx\documents\visual studio 2015\Projects\Sam\Sam\obj\Debug\Sam.exe
-c:\users\sammx\documents\visual studio 2015\Projects\Sam\Sam\obj\Debug\Sam.pdb
