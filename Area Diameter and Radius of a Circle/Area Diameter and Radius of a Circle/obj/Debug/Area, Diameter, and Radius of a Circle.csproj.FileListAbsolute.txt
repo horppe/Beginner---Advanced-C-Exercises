@@ -1,0 +1,3 @@
+C:\Users\sammx\Documents\Visual Studio 2015\Projects\beta\beta\bin\Debug\beta.exe.config
+C:\Users\sammx\Documents\Visual Studio 2015\Projects\beta\beta\obj\Debug\beta.exe
+C:\Users\sammx\Documents\Visual Studio 2015\Projects\beta\beta\obj\Debug\beta.pdb
